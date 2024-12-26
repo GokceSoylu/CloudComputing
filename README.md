@@ -61,3 +61,9 @@ Projenin AWS altyapısında geliştirilmesi için AKS (AWS Kullanıcı Sistemi) 
 ## Sonuç:
 Bu proje sayesinde deprem verileri AWS altyapısı kullanılarak analiz edilecek ve görselleştirilecektir. Bu da bilimsel araştırmalar ve kamu bilgilendirme çalışmaları için değerli bir kaynak oluşturacaktır.
 
+# VERİLER
+- afaddan veri çekilde /Users/gokcesoylu/CloudComputing/afad_scraped_data.json dosyasına kaydedildi
+
+- kandilliden veri çekildi /Users/gokcesoylu/CloudComputing/kandilli_earthquake_data.json dosyasına kaydedildi
+
+- usgs den veri çekilde /Users/gokcesoylu/CloudComputing/earthquake_data.json dosyasına kaydedildi
