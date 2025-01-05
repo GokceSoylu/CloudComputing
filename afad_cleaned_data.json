@@ -1,0 +1,800 @@
+{
+    "date": "2024-12-26 09:18:23",
+    "latitude": "38.87556",
+    "longitude": "37.45222",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.7"
+}
+{
+    "date": "2024-12-26 08:25:38",
+    "latitude": "37.68306",
+    "longitude": "36.12778",
+    "depth": "7.07",
+    "magnitude": "ML",
+    "location": "1.7"
+}
+{
+    "date": "2024-12-26 08:00:33",
+    "latitude": "38.88972",
+    "longitude": "31.48167",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "2.3"
+}
+{
+    "date": "2024-12-26 07:40:09",
+    "latitude": "38.36806",
+    "longitude": "38.89639",
+    "depth": "7.06",
+    "magnitude": "ML",
+    "location": "2.3"
+}
+{
+    "date": "2024-12-26 07:35:42",
+    "latitude": "37.97833",
+    "longitude": "27.20667",
+    "depth": "8.35",
+    "magnitude": "ML",
+    "location": "2.1"
+}
+{
+    "date": "2024-12-26 07:32:42",
+    "latitude": "37.88583",
+    "longitude": "29.25222",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.4"
+}
+{
+    "date": "2024-12-26 07:26:47",
+    "latitude": "37.46972",
+    "longitude": "36.56333",
+    "depth": "7.03",
+    "magnitude": "ML",
+    "location": "2.7"
+}
+{
+    "date": "2024-12-26 07:15:24",
+    "latitude": "37.98444",
+    "longitude": "27.22083",
+    "depth": "7.67",
+    "magnitude": "ML",
+    "location": "1.3"
+}
+{
+    "date": "2024-12-26 06:08:02",
+    "latitude": "37.69306",
+    "longitude": "36.23667",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.2"
+}
+{
+    "date": "2024-12-26 06:07:13",
+    "latitude": "38.01861",
+    "longitude": "36.49083",
+    "depth": "6.95",
+    "magnitude": "ML",
+    "location": "1.4"
+}
+{
+    "date": "2024-12-26 06:03:11",
+    "latitude": "38.11194",
+    "longitude": "36.39306",
+    "depth": "6.99",
+    "magnitude": "ML",
+    "location": "1.6"
+}
+{
+    "date": "2024-12-26 05:47:58",
+    "latitude": "38.55472",
+    "longitude": "40.195",
+    "depth": "6.96",
+    "magnitude": "ML",
+    "location": "1.4"
+}
+{
+    "date": "2024-12-26 05:43:06",
+    "latitude": "38.33472",
+    "longitude": "38.79194",
+    "depth": "9.81",
+    "magnitude": "ML",
+    "location": "1.7"
+}
+{
+    "date": "2024-12-26 05:32:04",
+    "latitude": "37.93361",
+    "longitude": "27.16833",
+    "depth": "8.85",
+    "magnitude": "ML",
+    "location": "1.5"
+}
+{
+    "date": "2024-12-26 04:09:43",
+    "latitude": "35.05861",
+    "longitude": "31.00694",
+    "depth": "10.46",
+    "magnitude": "ML",
+    "location": "2.7"
+}
+{
+    "date": "2024-12-26 04:04:28",
+    "latitude": "37.15417",
+    "longitude": "28.80889",
+    "depth": "7.06",
+    "magnitude": "ML",
+    "location": "1.9"
+}
+{
+    "date": "2024-12-26 04:00:50",
+    "latitude": "37.87861",
+    "longitude": "38.59278",
+    "depth": "6.99",
+    "magnitude": "ML",
+    "location": "1.3"
+}
+{
+    "date": "2024-12-26 03:59:24",
+    "latitude": "38.65278",
+    "longitude": "43.24972",
+    "depth": "12.98",
+    "magnitude": "ML",
+    "location": "1.4"
+}
+{
+    "date": "2024-12-26 03:49:32",
+    "latitude": "38.3225",
+    "longitude": "34.82944",
+    "depth": "16.05",
+    "magnitude": "ML",
+    "location": "1.6"
+}
+{
+    "date": "2024-12-26 03:34:32",
+    "latitude": "38.05083",
+    "longitude": "38.265",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "0.9"
+}
+{
+    "date": "2024-12-26 03:18:15",
+    "latitude": "38.15278",
+    "longitude": "38.46667",
+    "depth": "15.78",
+    "magnitude": "ML",
+    "location": "1.6"
+}
+{
+    "date": "2024-12-26 02:49:18",
+    "latitude": "37.88889",
+    "longitude": "29.26028",
+    "depth": "13.94",
+    "magnitude": "ML",
+    "location": "1.8"
+}
+{
+    "date": "2024-12-26 02:37:12",
+    "latitude": "38.53444",
+    "longitude": "26.77194",
+    "depth": "16.45",
+    "magnitude": "ML",
+    "location": "2.0"
+}
+{
+    "date": "2024-12-26 02:35:27",
+    "latitude": "37.87139",
+    "longitude": "29.27917",
+    "depth": "16.02",
+    "magnitude": "ML",
+    "location": "1.8"
+}
+{
+    "date": "2024-12-26 02:28:51",
+    "latitude": "38.13972",
+    "longitude": "36.58333",
+    "depth": "7.02",
+    "magnitude": "ML",
+    "location": "1.9"
+}
+{
+    "date": "2024-12-26 01:58:15",
+    "latitude": "39.94556",
+    "longitude": "29.22167",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.6"
+}
+{
+    "date": "2024-12-26 01:38:15",
+    "latitude": "38.57194",
+    "longitude": "39.53056",
+    "depth": "6.97",
+    "magnitude": "ML",
+    "location": "1.3"
+}
+{
+    "date": "2024-12-26 01:22:08",
+    "latitude": "38.14556",
+    "longitude": "37.82194",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.1"
+}
+{
+    "date": "2024-12-26 01:07:45",
+    "latitude": "38.20806",
+    "longitude": "38.58917",
+    "depth": "15.46",
+    "magnitude": "ML",
+    "location": "1.8"
+}
+{
+    "date": "2024-12-26 00:41:23",
+    "latitude": "37.1625",
+    "longitude": "28.80333",
+    "depth": "7.01",
+    "magnitude": "ML",
+    "location": "1.8"
+}
+{
+    "date": "2024-12-26 00:36:06",
+    "latitude": "37.15806",
+    "longitude": "28.80889",
+    "depth": "7.02",
+    "magnitude": "ML",
+    "location": "1.8"
+}
+{
+    "date": "2024-12-26 00:10:42",
+    "latitude": "38.36278",
+    "longitude": "38.74028",
+    "depth": "7.01",
+    "magnitude": "ML",
+    "location": "0.9"
+}
+{
+    "date": "2024-12-25 21:37:31",
+    "latitude": "38.09111",
+    "longitude": "38.43028",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "2.1"
+}
+{
+    "date": "2024-12-25 21:36:06",
+    "latitude": "38.15333",
+    "longitude": "37.86611",
+    "depth": "6.29",
+    "magnitude": "ML",
+    "location": "2.9"
+}
+{
+    "date": "2024-12-25 21:25:18",
+    "latitude": "38.26944",
+    "longitude": "37.20194",
+    "depth": "7.26",
+    "magnitude": "ML",
+    "location": "1.3"
+}
+{
+    "date": "2024-12-25 19:53:49",
+    "latitude": "39.65639",
+    "longitude": "37.35694",
+    "depth": "6.96",
+    "magnitude": "ML",
+    "location": "1.6"
+}
+{
+    "date": "2024-12-25 19:45:47",
+    "latitude": "39.09111",
+    "longitude": "39.0",
+    "depth": "6.99",
+    "magnitude": "ML",
+    "location": "1.5"
+}
+{
+    "date": "2024-12-25 18:47:41",
+    "latitude": "39.37389",
+    "longitude": "26.14",
+    "depth": "14.19",
+    "magnitude": "ML",
+    "location": "2.7"
+}
+{
+    "date": "2024-12-25 18:37:07",
+    "latitude": "37.17",
+    "longitude": "28.80722",
+    "depth": "7.04",
+    "magnitude": "ML",
+    "location": "1.7"
+}
+{
+    "date": "2024-12-25 18:32:41",
+    "latitude": "38.52167",
+    "longitude": "45.04861",
+    "depth": "6.75",
+    "magnitude": "ML",
+    "location": "1.8"
+}
+{
+    "date": "2024-12-25 18:14:32",
+    "latitude": "39.39333",
+    "longitude": "26.19194",
+    "depth": "7.31",
+    "magnitude": "ML",
+    "location": "1.5"
+}
+{
+    "date": "2024-12-25 18:10:25",
+    "latitude": "38.31611",
+    "longitude": "37.75944",
+    "depth": "7.71",
+    "magnitude": "ML",
+    "location": "1.4"
+}
+{
+    "date": "2024-12-25 18:10:04",
+    "latitude": "38.18944",
+    "longitude": "38.64444",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.2"
+}
+{
+    "date": "2024-12-25 17:43:46",
+    "latitude": "37.15361",
+    "longitude": "28.80361",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.7"
+}
+{
+    "date": "2024-12-25 16:50:25",
+    "latitude": "41.50806",
+    "longitude": "34.41056",
+    "depth": "19.45",
+    "magnitude": "ML",
+    "location": "1.7"
+}
+{
+    "date": "2024-12-25 16:28:41",
+    "latitude": "36.0575",
+    "longitude": "27.70389",
+    "depth": "6.93",
+    "magnitude": "ML",
+    "location": "2.3"
+}
+{
+    "date": "2024-12-25 15:13:10",
+    "latitude": "41.45667",
+    "longitude": "34.39417",
+    "depth": "6.97",
+    "magnitude": "ML",
+    "location": "2.1"
+}
+{
+    "date": "2024-12-25 15:04:17",
+    "latitude": "41.15556",
+    "longitude": "31.375",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.3"
+}
+{
+    "date": "2024-12-25 15:00:34",
+    "latitude": "37.13833",
+    "longitude": "28.75028",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "2.0"
+}
+{
+    "date": "2024-12-25 14:58:58",
+    "latitude": "37.17389",
+    "longitude": "28.80333",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.9"
+}
+{
+    "date": "2024-12-25 14:57:07",
+    "latitude": "37.97583",
+    "longitude": "27.20889",
+    "depth": "11.23",
+    "magnitude": "ML",
+    "location": "2.1"
+}
+{
+    "date": "2024-12-25 14:55:08",
+    "latitude": "37.80333",
+    "longitude": "36.2",
+    "depth": "7.08",
+    "magnitude": "ML",
+    "location": "2.1"
+}
+{
+    "date": "2024-12-25 14:29:44",
+    "latitude": "37.14639",
+    "longitude": "28.77889",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.8"
+}
+{
+    "date": "2024-12-25 14:27:47",
+    "latitude": "37.16611",
+    "longitude": "28.69389",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "2.0"
+}
+{
+    "date": "2024-12-25 14:13:32",
+    "latitude": "40.53889",
+    "longitude": "43.06861",
+    "depth": "7.03",
+    "magnitude": "ML",
+    "location": "1.4"
+}
+{
+    "date": "2024-12-25 14:05:14",
+    "latitude": "38.25667",
+    "longitude": "38.82972",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.2"
+}
+{
+    "date": "2024-12-25 13:52:38",
+    "latitude": "37.15222",
+    "longitude": "28.82361",
+    "depth": "6.7",
+    "magnitude": "ML",
+    "location": "1.8"
+}
+{
+    "date": "2024-12-25 13:36:51",
+    "latitude": "37.15944",
+    "longitude": "28.8225",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.9"
+}
+{
+    "date": "2024-12-25 13:17:20",
+    "latitude": "39.35972",
+    "longitude": "29.285",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.4"
+}
+{
+    "date": "2024-12-25 12:41:55",
+    "latitude": "37.88444",
+    "longitude": "29.25472",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.4"
+}
+{
+    "date": "2024-12-25 12:40:20",
+    "latitude": "37.85111",
+    "longitude": "29.24139",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.6"
+}
+{
+    "date": "2024-12-25 12:32:50",
+    "latitude": "38.27417",
+    "longitude": "38.08111",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.2"
+}
+{
+    "date": "2024-12-25 12:26:42",
+    "latitude": "37.88",
+    "longitude": "29.27694",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.3"
+}
+{
+    "date": "2024-12-25 12:18:42",
+    "latitude": "38.69306",
+    "longitude": "33.56861",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.0"
+}
+{
+    "date": "2024-12-25 11:54:14",
+    "latitude": "36.89056",
+    "longitude": "36.5425",
+    "depth": "7.04",
+    "magnitude": "ML",
+    "location": "1.8"
+}
+{
+    "date": "2024-12-25 11:43:46",
+    "latitude": "38.14389",
+    "longitude": "38.54306",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.2"
+}
+{
+    "date": "2024-12-25 11:17:09",
+    "latitude": "37.15611",
+    "longitude": "28.82",
+    "depth": "6.98",
+    "magnitude": "ML",
+    "location": "2.0"
+}
+{
+    "date": "2024-12-25 10:45:26",
+    "latitude": "38.22583",
+    "longitude": "37.7575",
+    "depth": "6.93",
+    "magnitude": "ML",
+    "location": "1.8"
+}
+{
+    "date": "2024-12-25 10:44:01",
+    "latitude": "37.93861",
+    "longitude": "36.34278",
+    "depth": "6.93",
+    "magnitude": "ML",
+    "location": "2.9"
+}
+{
+    "date": "2024-12-25 10:14:17",
+    "latitude": "37.17028",
+    "longitude": "28.80111",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.4"
+}
+{
+    "date": "2024-12-25 10:05:08",
+    "latitude": "37.65778",
+    "longitude": "35.88472",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.1"
+}
+{
+    "date": "2024-12-25 09:23:18",
+    "latitude": "38.2575",
+    "longitude": "38.8225",
+    "depth": "6.71",
+    "magnitude": "ML",
+    "location": "2.8"
+}
+{
+    "date": "2024-12-25 09:07:21",
+    "latitude": "38.55417",
+    "longitude": "39.54389",
+    "depth": "12.4",
+    "magnitude": "ML",
+    "location": "1.7"
+}
+{
+    "date": "2024-12-25 09:06:54",
+    "latitude": "40.80028",
+    "longitude": "27.79083",
+    "depth": "6.94",
+    "magnitude": "ML",
+    "location": "2.4"
+}
+{
+    "date": "2024-12-25 08:41:50",
+    "latitude": "38.13361",
+    "longitude": "38.52667",
+    "depth": "7.01",
+    "magnitude": "ML",
+    "location": "1.6"
+}
+{
+    "date": "2024-12-25 08:38:38",
+    "latitude": "37.86944",
+    "longitude": "29.27222",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.5"
+}
+{
+    "date": "2024-12-25 08:27:05",
+    "latitude": "36.69944",
+    "longitude": "36.28722",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "2.2"
+}
+{
+    "date": "2024-12-25 08:08:24",
+    "latitude": "37.23639",
+    "longitude": "28.77583",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.7"
+}
+{
+    "date": "2024-12-25 07:45:56",
+    "latitude": "38.21667",
+    "longitude": "38.47056",
+    "depth": "13.94",
+    "magnitude": "ML",
+    "location": "2.4"
+}
+{
+    "date": "2024-12-25 07:42:54",
+    "latitude": "38.21778",
+    "longitude": "38.48972",
+    "depth": "10.62",
+    "magnitude": "ML",
+    "location": "2.0"
+}
+{
+    "date": "2024-12-25 07:25:52",
+    "latitude": "37.21972",
+    "longitude": "36.71889",
+    "depth": "8.04",
+    "magnitude": "ML",
+    "location": "2.7"
+}
+{
+    "date": "2024-12-25 07:25:06",
+    "latitude": "37.19833",
+    "longitude": "36.71556",
+    "depth": "7.05",
+    "magnitude": "ML",
+    "location": "2.7"
+}
+{
+    "date": "2024-12-25 06:55:53",
+    "latitude": "37.20028",
+    "longitude": "36.68833",
+    "depth": "10.98",
+    "magnitude": "ML",
+    "location": "1.9"
+}
+{
+    "date": "2024-12-25 06:39:13",
+    "latitude": "39.38389",
+    "longitude": "26.18694",
+    "depth": "9.87",
+    "magnitude": "ML",
+    "location": "1.4"
+}
+{
+    "date": "2024-12-25 06:34:40",
+    "latitude": "37.86306",
+    "longitude": "29.30417",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.5"
+}
+{
+    "date": "2024-12-25 06:32:49",
+    "latitude": "37.87694",
+    "longitude": "29.27583",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.5"
+}
+{
+    "date": "2024-12-25 06:31:18",
+    "latitude": "37.87028",
+    "longitude": "29.27417",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.4"
+}
+{
+    "date": "2024-12-25 06:23:25",
+    "latitude": "37.87083",
+    "longitude": "29.27194",
+    "depth": "12.36",
+    "magnitude": "ML",
+    "location": "2.0"
+}
+{
+    "date": "2024-12-25 06:03:45",
+    "latitude": "38.76222",
+    "longitude": "38.95306",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.0"
+}
+{
+    "date": "2024-12-25 05:57:26",
+    "latitude": "40.19361",
+    "longitude": "28.98111",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.4"
+}
+{
+    "date": "2024-12-25 05:39:05",
+    "latitude": "37.88",
+    "longitude": "29.26806",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "1.8"
+}
+{
+    "date": "2024-12-25 05:32:41",
+    "latitude": "38.27",
+    "longitude": "38.80583",
+    "depth": "8.71",
+    "magnitude": "ML",
+    "location": "0.9"
+}
+{
+    "date": "2024-12-25 05:07:51",
+    "latitude": "39.41556",
+    "longitude": "38.51861",
+    "depth": "13.48",
+    "magnitude": "ML",
+    "location": "1.9"
+}
+{
+    "date": "2024-12-25 05:03:53",
+    "latitude": "37.2025",
+    "longitude": "36.96278",
+    "depth": "10.72",
+    "magnitude": "ML",
+    "location": "1.8"
+}
+{
+    "date": "2024-12-25 04:59:16",
+    "latitude": "37.8775",
+    "longitude": "29.26444",
+    "depth": "5.33",
+    "magnitude": "ML",
+    "location": "1.7"
+}
+{
+    "date": "2024-12-25 04:50:48",
+    "latitude": "38.31333",
+    "longitude": "38.25333",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "0.8"
+}
+{
+    "date": "2024-12-25 04:42:58",
+    "latitude": "40.80056",
+    "longitude": "31.09139",
+    "depth": "7.03",
+    "magnitude": "ML",
+    "location": "1.2"
+}
+{
+    "date": "2024-12-25 04:11:07",
+    "latitude": "38.02778",
+    "longitude": "30.07222",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "2.3"
+}
+{
+    "date": "2024-12-25 04:06:14",
+    "latitude": "37.87944",
+    "longitude": "29.25556",
+    "depth": "7.0",
+    "magnitude": "ML",
+    "location": "3.0"
+}
+{
+    "date": "2024-12-25 03:53:43",
+    "latitude": "40.81889",
+    "longitude": "27.95222",
+    "depth": "8.53",
+    "magnitude": "ML",
+    "location": "1.4"
+}

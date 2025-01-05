@@ -1,0 +1,4000 @@
+{
+    "date": "2024.12.26 09:32:30",
+    "latitude": "39.2367",
+    "longitude": "29.3637",
+    "depth_km": "0.0",
+    "magnitude": "1.7",
+    "location": "KARBASAN-HISARCIK (KUTAHYA) \u0130lksel"
+}
+{
+    "date": "2024.12.26 09:27:46",
+    "latitude": "38.7047",
+    "longitude": "37.4968",
+    "depth_km": "5.3",
+    "magnitude": "2.0",
+    "location": "KAVAKKOY-DARENDE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.26 09:18:21",
+    "latitude": "38.8945",
+    "longitude": "37.4025",
+    "depth_km": "6.0",
+    "magnitude": "1.8",
+    "location": "DAYAKPINAR-GURUN (SIVAS) \u0130lksel"
+}
+{
+    "date": "2024.12.26 09:01:06",
+    "latitude": "35.8180",
+    "longitude": "31.5270",
+    "depth_km": "11.7",
+    "magnitude": "2.0",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.26 08:54:10",
+    "latitude": "37.1632",
+    "longitude": "28.7407",
+    "depth_km": "9.2",
+    "magnitude": "1.4",
+    "location": "TURGUT-ULA (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.26 08:25:39",
+    "latitude": "37.6692",
+    "longitude": "36.0950",
+    "depth_km": "5.9",
+    "magnitude": "1.6",
+    "location": "ESENLI-SUMBAS (OSMANIYE) \u0130lksel"
+}
+{
+    "date": "2024.12.26 08:00:32",
+    "latitude": "38.8793",
+    "longitude": "31.4717",
+    "depth_km": "8.4",
+    "magnitude": "2.7",
+    "location": "GELINCIK-EMIRDAG (AFYONKARAHISAR) \u0130lksel"
+}
+{
+    "date": "2024.12.26 07:40:09",
+    "latitude": "38.3803",
+    "longitude": "38.9347",
+    "depth_km": "5.4",
+    "magnitude": "2.3",
+    "location": "GELINDERE-SIVRICE (ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.26 07:35:42",
+    "latitude": "37.9872",
+    "longitude": "27.1968",
+    "depth_km": "4.9",
+    "magnitude": "2.1",
+    "location": "KUSADASI KORFEZI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.26 07:26:47",
+    "latitude": "37.4827",
+    "longitude": "36.5670",
+    "depth_km": "5.5",
+    "magnitude": "2.4",
+    "location": "KISIKLI-(KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.26 06:07:12",
+    "latitude": "38.0770",
+    "longitude": "36.6103",
+    "depth_km": "5.3",
+    "magnitude": "1.3",
+    "location": "YAGMURLU-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.26 06:03:10",
+    "latitude": "38.1052",
+    "longitude": "36.3635",
+    "depth_km": "24.4",
+    "magnitude": "1.2",
+    "location": "SOGUKPINAR-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.26 05:47:58",
+    "latitude": "38.5610",
+    "longitude": "40.1853",
+    "depth_km": "21.3",
+    "magnitude": "1.5",
+    "location": "ERBAGI-ARICAK (ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.26 05:43:06",
+    "latitude": "38.3552",
+    "longitude": "38.7892",
+    "depth_km": "5.3",
+    "magnitude": "1.5",
+    "location": "CANAKCI-KALE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.26 04:54:04",
+    "latitude": "37.1400",
+    "longitude": "28.8257",
+    "depth_km": "5.0",
+    "magnitude": "1.0",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.26 04:09:42",
+    "latitude": "34.9668",
+    "longitude": "30.8005",
+    "depth_km": "18.0",
+    "magnitude": "3.0",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.26 04:04:28",
+    "latitude": "37.1560",
+    "longitude": "28.8093",
+    "depth_km": "12.6",
+    "magnitude": "2.0",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.26 04:00:50",
+    "latitude": "37.8660",
+    "longitude": "38.5975",
+    "depth_km": "5.6",
+    "magnitude": "1.5",
+    "location": "BAGOZU-KAHTA (ADIYAMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.26 03:59:22",
+    "latitude": "38.6705",
+    "longitude": "43.2717",
+    "depth_km": "4.5",
+    "magnitude": "1.3",
+    "location": "ALAKOY-(VAN) \u0130lksel"
+}
+{
+    "date": "2024.12.26 03:49:32",
+    "latitude": "38.2982",
+    "longitude": "34.8117",
+    "depth_km": "5.0",
+    "magnitude": "1.5",
+    "location": "ORHANLI-(NIGDE) \u0130lksel"
+}
+{
+    "date": "2024.12.26 03:18:14",
+    "latitude": "38.1930",
+    "longitude": "38.4677",
+    "depth_km": "15.1",
+    "magnitude": "1.5",
+    "location": "GULUMUSAGI-(MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.26 02:49:19",
+    "latitude": "37.8687",
+    "longitude": "29.2723",
+    "depth_km": "8.0",
+    "magnitude": "2.0",
+    "location": "GURLEYIK-HONAZ (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.26 02:37:12",
+    "latitude": "38.5368",
+    "longitude": "26.8093",
+    "depth_km": "5.4",
+    "magnitude": "2.1",
+    "location": "IZMIR KORFEZI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.26 02:35:28",
+    "latitude": "37.8657",
+    "longitude": "29.2778",
+    "depth_km": "5.8",
+    "magnitude": "1.9",
+    "location": "GURLEYIK-HONAZ (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.26 02:28:51",
+    "latitude": "38.1330",
+    "longitude": "36.6117",
+    "depth_km": "7.7",
+    "magnitude": "1.8",
+    "location": "KANLIKAVAK-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.26 01:58:15",
+    "latitude": "39.9790",
+    "longitude": "29.2637",
+    "depth_km": "3.5",
+    "magnitude": "1.8",
+    "location": "PINARCIK-KELES (BURSA) \u0130lksel"
+}
+{
+    "date": "2024.12.26 01:07:44",
+    "latitude": "38.2305",
+    "longitude": "38.5767",
+    "depth_km": "5.0",
+    "magnitude": "2.0",
+    "location": "SOGUTLU-PUTURGE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.26 00:41:22",
+    "latitude": "37.1873",
+    "longitude": "28.8157",
+    "depth_km": "10.0",
+    "magnitude": "1.7",
+    "location": "KARACAOREN-(MUGLA) REVIZE01 (2024.12.26 00:41:22)"
+}
+{
+    "date": "2024.12.26 00:36:05",
+    "latitude": "37.0857",
+    "longitude": "28.8225",
+    "depth_km": "17.1",
+    "magnitude": "1.9",
+    "location": "YAYLA-KOYCEGIZ (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 21:36:05",
+    "latitude": "38.1540",
+    "longitude": "37.8612",
+    "depth_km": "1.4",
+    "magnitude": "2.9",
+    "location": "POLAT-DOGANSEHIR (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 19:53:49",
+    "latitude": "39.6853",
+    "longitude": "37.3660",
+    "depth_km": "11.6",
+    "magnitude": "1.6",
+    "location": "AKPINAR-(SIVAS) \u0130lksel"
+}
+{
+    "date": "2024.12.25 19:45:47",
+    "latitude": "38.9912",
+    "longitude": "39.0442",
+    "depth_km": "7.9",
+    "magnitude": "1.6",
+    "location": "DOGAN-CEMISGEZEK (TUNCELI) \u0130lksel"
+}
+{
+    "date": "2024.12.25 18:47:41",
+    "latitude": "39.3765",
+    "longitude": "26.1475",
+    "depth_km": "7.6",
+    "magnitude": "2.9",
+    "location": "MIDILLI ADASI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.25 18:37:05",
+    "latitude": "37.0892",
+    "longitude": "28.8402",
+    "depth_km": "14.0",
+    "magnitude": "1.6",
+    "location": "OTMANLAR-KOYCEGIZ (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 18:14:30",
+    "latitude": "39.3685",
+    "longitude": "26.0963",
+    "depth_km": "1.7",
+    "magnitude": "1.4",
+    "location": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.25 18:10:25",
+    "latitude": "38.3267",
+    "longitude": "37.7413",
+    "depth_km": "11.0",
+    "magnitude": "1.5",
+    "location": "KEPEZ-AKCADAG (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 17:43:45",
+    "latitude": "37.1495",
+    "longitude": "28.8397",
+    "depth_km": "15.4",
+    "magnitude": "1.5",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 16:28:40",
+    "latitude": "36.0217",
+    "longitude": "27.5993",
+    "depth_km": "10.2",
+    "magnitude": "2.3",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.25 15:13:10",
+    "latitude": "41.4767",
+    "longitude": "34.4033",
+    "depth_km": "8.2",
+    "magnitude": "2.3",
+    "location": "HACIALI-TASKOPRU (KASTAMONU) \u0130lksel"
+}
+{
+    "date": "2024.12.25 15:00:35",
+    "latitude": "37.1852",
+    "longitude": "28.8078",
+    "depth_km": "4.9",
+    "magnitude": "1.8",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 14:58:56",
+    "latitude": "37.1540",
+    "longitude": "28.7990",
+    "depth_km": "24.5",
+    "magnitude": "1.7",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 14:57:07",
+    "latitude": "37.9668",
+    "longitude": "27.1882",
+    "depth_km": "5.4",
+    "magnitude": "2.4",
+    "location": "KUSADASI KORFEZI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.25 14:55:09",
+    "latitude": "37.7657",
+    "longitude": "36.2330",
+    "depth_km": "7.1",
+    "magnitude": "2.0",
+    "location": "HALILBEYLI-SAIMBEYLI (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 14:31:54",
+    "latitude": "36.1585",
+    "longitude": "35.4325",
+    "depth_km": "6.7",
+    "magnitude": "1.6",
+    "location": "ISKENDERUN KORFEZI (AKDENIZ) \u0130lksel"
+}
+{
+    "date": "2024.12.25 14:29:43",
+    "latitude": "37.1263",
+    "longitude": "28.8228",
+    "depth_km": "11.1",
+    "magnitude": "1.9",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 14:27:48",
+    "latitude": "37.1412",
+    "longitude": "28.8303",
+    "depth_km": "14.4",
+    "magnitude": "1.8",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 13:52:38",
+    "latitude": "37.1967",
+    "longitude": "28.8187",
+    "depth_km": "9.7",
+    "magnitude": "2.3",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 13:36:51",
+    "latitude": "37.1397",
+    "longitude": "28.8473",
+    "depth_km": "13.5",
+    "magnitude": "2.1",
+    "location": "BEYAGAC (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.25 13:17:19",
+    "latitude": "39.3277",
+    "longitude": "29.2952",
+    "depth_km": "0.0",
+    "magnitude": "1.5",
+    "location": "BAHATLAR-EMET (KUTAHYA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 12:57:43",
+    "latitude": "37.0685",
+    "longitude": "28.8412",
+    "depth_km": "13.4",
+    "magnitude": "1.7",
+    "location": "OTMANLAR-KOYCEGIZ (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 12:13:22",
+    "latitude": "38.5950",
+    "longitude": "39.1197",
+    "depth_km": "19.4",
+    "magnitude": "1.0",
+    "location": "YUKARIDEMIRTAS-(ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.25 11:54:13",
+    "latitude": "36.8477",
+    "longitude": "36.6150",
+    "depth_km": "9.0",
+    "magnitude": "1.7",
+    "location": "CINARBASI-HASSA (HATAY) \u0130lksel"
+}
+{
+    "date": "2024.12.25 11:43:47",
+    "latitude": "38.1988",
+    "longitude": "38.4840",
+    "depth_km": "5.3",
+    "magnitude": "1.6",
+    "location": "GULUMUSAGI-(MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 11:17:09",
+    "latitude": "37.1575",
+    "longitude": "28.7893",
+    "depth_km": "11.7",
+    "magnitude": "2.4",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 10:44:00",
+    "latitude": "37.9380",
+    "longitude": "36.3180",
+    "depth_km": "5.0",
+    "magnitude": "2.6",
+    "location": "HACIKODAL-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.25 09:53:45",
+    "latitude": "37.1648",
+    "longitude": "28.8653",
+    "depth_km": "13.5",
+    "magnitude": "2.0",
+    "location": "BEYAGAC (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.25 09:23:17",
+    "latitude": "38.2918",
+    "longitude": "38.8343",
+    "depth_km": "5.0",
+    "magnitude": "2.9",
+    "location": "BOLUKKAYA-PUTURGE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 09:07:22",
+    "latitude": "38.5810",
+    "longitude": "39.4600",
+    "depth_km": "8.8",
+    "magnitude": "1.8",
+    "location": "KOCKALE-(ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.25 09:06:54",
+    "latitude": "40.7787",
+    "longitude": "27.7758",
+    "depth_km": "11.1",
+    "magnitude": "2.5",
+    "location": "MARMARA DENIZI \u0130lksel"
+}
+{
+    "date": "2024.12.25 08:41:49",
+    "latitude": "38.1768",
+    "longitude": "38.4825",
+    "depth_km": "4.2",
+    "magnitude": "1.5",
+    "location": "ULUKOY-(MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 08:27:04",
+    "latitude": "36.6597",
+    "longitude": "36.3600",
+    "depth_km": "5.5",
+    "magnitude": "2.3",
+    "location": "KALEDIBI-ISKENDERUN (HATAY) \u0130lksel"
+}
+{
+    "date": "2024.12.25 08:08:23",
+    "latitude": "37.1440",
+    "longitude": "28.8042",
+    "depth_km": "11.3",
+    "magnitude": "1.8",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 07:45:55",
+    "latitude": "38.2538",
+    "longitude": "38.4485",
+    "depth_km": "5.0",
+    "magnitude": "2.4",
+    "location": "BEYDAGI-(MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 07:42:53",
+    "latitude": "38.2492",
+    "longitude": "38.4555",
+    "depth_km": "2.5",
+    "magnitude": "1.9",
+    "location": "BEYDAGI-(MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 07:25:52",
+    "latitude": "37.1663",
+    "longitude": "36.8087",
+    "depth_km": "5.0",
+    "magnitude": "2.6",
+    "location": "KOMURLER-NURDAGI (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.25 07:25:06",
+    "latitude": "37.1695",
+    "longitude": "36.7293",
+    "depth_km": "3.8",
+    "magnitude": "2.7",
+    "location": "NURDAGI (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.25 06:55:53",
+    "latitude": "37.2233",
+    "longitude": "36.7748",
+    "depth_km": "5.4",
+    "magnitude": "1.8",
+    "location": "BELPINAR-NURDAGI (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.25 06:39:13",
+    "latitude": "39.3600",
+    "longitude": "26.1313",
+    "depth_km": "7.5",
+    "magnitude": "1.7",
+    "location": "MIDILLI ADASI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.25 06:23:24",
+    "latitude": "37.8753",
+    "longitude": "29.2948",
+    "depth_km": "5.0",
+    "magnitude": "1.9",
+    "location": "KARAPINAR-CAL (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.25 05:57:26",
+    "latitude": "40.2013",
+    "longitude": "28.9990",
+    "depth_km": "5.1",
+    "magnitude": "1.7",
+    "location": "NILUFER (BURSA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 05:39:05",
+    "latitude": "37.8453",
+    "longitude": "29.3128",
+    "depth_km": "12.5",
+    "magnitude": "1.9",
+    "location": "KOCABAS-HONAZ (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.25 05:07:50",
+    "latitude": "39.4080",
+    "longitude": "38.4945",
+    "depth_km": "5.0",
+    "magnitude": "2.1",
+    "location": "COPLER-ILIC (ERZINCAN) \u0130lksel"
+}
+{
+    "date": "2024.12.25 05:03:53",
+    "latitude": "37.1668",
+    "longitude": "37.0153",
+    "depth_km": "5.8",
+    "magnitude": "1.5",
+    "location": "ATALAR-SEHITKAMIL (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.25 04:59:16",
+    "latitude": "37.8797",
+    "longitude": "29.2783",
+    "depth_km": "6.2",
+    "magnitude": "1.9",
+    "location": "GURLEYIK-HONAZ (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.25 04:29:39",
+    "latitude": "37.2385",
+    "longitude": "28.8062",
+    "depth_km": "5.2",
+    "magnitude": "1.5",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 04:11:07",
+    "latitude": "38.0348",
+    "longitude": "30.0732",
+    "depth_km": "6.0",
+    "magnitude": "2.3",
+    "location": "AKTOPRAK-DINAR (AFYONKARAHISAR) \u0130lksel"
+}
+{
+    "date": "2024.12.25 04:09:12",
+    "latitude": "35.2205",
+    "longitude": "25.3350",
+    "depth_km": "6.4",
+    "magnitude": "2.4",
+    "location": "GIRIT ADASI (AKDENIZ) \u0130lksel"
+}
+{
+    "date": "2024.12.25 04:06:13",
+    "latitude": "37.8868",
+    "longitude": "29.2682",
+    "depth_km": "5.9",
+    "magnitude": "3.0",
+    "location": "IRLIGANLI-(DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.25 03:53:43",
+    "latitude": "40.8440",
+    "longitude": "28.0210",
+    "depth_km": "7.3",
+    "magnitude": "1.1",
+    "location": "MARMARA DENIZI \u0130lksel"
+}
+{
+    "date": "2024.12.25 03:36:46",
+    "latitude": "37.2077",
+    "longitude": "36.9617",
+    "depth_km": "15.7",
+    "magnitude": "1.0",
+    "location": "SATIRHUYUK-NURDAGI (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.25 03:34:39",
+    "latitude": "37.9492",
+    "longitude": "28.8843",
+    "depth_km": "13.6",
+    "magnitude": "1.5",
+    "location": "KARATAS-SARAYKOY (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.25 03:20:32",
+    "latitude": "37.1808",
+    "longitude": "28.8215",
+    "depth_km": "9.3",
+    "magnitude": "1.6",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 03:07:54",
+    "latitude": "37.8777",
+    "longitude": "29.2722",
+    "depth_km": "7.4",
+    "magnitude": "3.1",
+    "location": "GURLEYIK-HONAZ (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.25 02:49:38",
+    "latitude": "38.2327",
+    "longitude": "38.4723",
+    "depth_km": "4.6",
+    "magnitude": "3.3",
+    "location": "GULUMUSAGI-(MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 02:49:13",
+    "latitude": "36.9440",
+    "longitude": "28.2353",
+    "depth_km": "5.4",
+    "magnitude": "1.2",
+    "location": "KARACA-MARMARIS (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 02:11:40",
+    "latitude": "40.4500",
+    "longitude": "29.2077",
+    "depth_km": "7.7",
+    "magnitude": "2.3",
+    "location": "CIHATLI-GEMLIK (BURSA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 02:00:41",
+    "latitude": "40.3827",
+    "longitude": "24.0703",
+    "depth_km": "5.1",
+    "magnitude": "2.4",
+    "location": "YUNANISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.25 01:59:50",
+    "latitude": "40.3867",
+    "longitude": "33.4182",
+    "depth_km": "4.6",
+    "magnitude": "1.8",
+    "location": "HANCILI-KALECIK (ANKARA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 01:57:22",
+    "latitude": "40.3870",
+    "longitude": "33.4188",
+    "depth_km": "5.0",
+    "magnitude": "3.2",
+    "location": "HANCILI-KALECIK (ANKARA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 01:10:07",
+    "latitude": "38.1658",
+    "longitude": "38.5978",
+    "depth_km": "5.0",
+    "magnitude": "2.1",
+    "location": "TEKEDERESI-PUTURGE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 01:04:24",
+    "latitude": "37.9787",
+    "longitude": "27.1402",
+    "depth_km": "5.3",
+    "magnitude": "1.7",
+    "location": "KUSADASI KORFEZI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.25 00:52:25",
+    "latitude": "34.7795",
+    "longitude": "31.9975",
+    "depth_km": "9.8",
+    "magnitude": "2.3",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.25 00:18:53",
+    "latitude": "37.4195",
+    "longitude": "37.0005",
+    "depth_km": "6.8",
+    "magnitude": "1.4",
+    "location": "SIVRICEHUYUK-(KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.25 00:15:38",
+    "latitude": "37.1600",
+    "longitude": "28.8063",
+    "depth_km": "8.0",
+    "magnitude": "2.2",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.25 00:01:00",
+    "latitude": "37.1518",
+    "longitude": "28.8395",
+    "depth_km": "11.1",
+    "magnitude": "1.8",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 23:57:26",
+    "latitude": "37.1318",
+    "longitude": "28.8277",
+    "depth_km": "7.7",
+    "magnitude": "2.3",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 23:15:37",
+    "latitude": "38.3077",
+    "longitude": "38.8153",
+    "depth_km": "4.2",
+    "magnitude": "2.0",
+    "location": "BOLUKKAYA-PUTURGE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 22:28:33",
+    "latitude": "37.4825",
+    "longitude": "37.1548",
+    "depth_km": "4.5",
+    "magnitude": "2.1",
+    "location": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.24 22:20:11",
+    "latitude": "38.0975",
+    "longitude": "37.1390",
+    "depth_km": "8.0",
+    "magnitude": "1.6",
+    "location": "ORTAOREN-EKINOZU (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.24 22:18:58",
+    "latitude": "38.0717",
+    "longitude": "37.4225",
+    "depth_km": "10.4",
+    "magnitude": "1.8",
+    "location": "AGCASAR-NURHAK (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.24 22:13:10",
+    "latitude": "38.0782",
+    "longitude": "37.4778",
+    "depth_km": "2.3",
+    "magnitude": "1.7",
+    "location": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.24 22:10:34",
+    "latitude": "38.2167",
+    "longitude": "31.0308",
+    "depth_km": "4.8",
+    "magnitude": "1.9",
+    "location": "CALTI-GELENDOST (ISPARTA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 22:08:48",
+    "latitude": "37.1468",
+    "longitude": "28.8242",
+    "depth_km": "8.5",
+    "magnitude": "2.8",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 21:56:32",
+    "latitude": "37.1520",
+    "longitude": "28.8287",
+    "depth_km": "15.0",
+    "magnitude": "1.8",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 21:50:49",
+    "latitude": "37.1353",
+    "longitude": "28.8142",
+    "depth_km": "9.0",
+    "magnitude": "2.1",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 21:32:48",
+    "latitude": "37.9457",
+    "longitude": "38.0707",
+    "depth_km": "5.4",
+    "magnitude": "1.8",
+    "location": "UZUNKOY-(ADIYAMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.24 21:32:21",
+    "latitude": "37.1967",
+    "longitude": "28.7958",
+    "depth_km": "7.5",
+    "magnitude": "2.0",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 21:26:56",
+    "latitude": "37.1508",
+    "longitude": "28.8295",
+    "depth_km": "7.7",
+    "magnitude": "3.4",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 21:22:30",
+    "latitude": "34.8722",
+    "longitude": "32.1322",
+    "depth_km": "21.0",
+    "magnitude": "4.1",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.24 21:19:41",
+    "latitude": "34.5100",
+    "longitude": "28.6497",
+    "depth_km": "6.2",
+    "magnitude": "3.7",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.24 21:16:35",
+    "latitude": "34.7835",
+    "longitude": "32.0237",
+    "depth_km": "11.4",
+    "magnitude": "2.5",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.24 21:06:47",
+    "latitude": "38.0732",
+    "longitude": "37.1387",
+    "depth_km": "22.5",
+    "magnitude": "1.3",
+    "location": "KANDILKOY-EKINOZU (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.24 21:04:34",
+    "latitude": "38.1287",
+    "longitude": "37.1595",
+    "depth_km": "7.7",
+    "magnitude": "2.2",
+    "location": "GUPLUCE-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.24 20:58:40",
+    "latitude": "38.5038",
+    "longitude": "39.5130",
+    "depth_km": "8.6",
+    "magnitude": "1.7",
+    "location": "PLAJKOY-MADEN (ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.24 20:57:50",
+    "latitude": "37.1855",
+    "longitude": "28.8002",
+    "depth_km": "17.0",
+    "magnitude": "1.9",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 20:53:47",
+    "latitude": "37.1485",
+    "longitude": "28.8237",
+    "depth_km": "9.9",
+    "magnitude": "1.9",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 20:46:34",
+    "latitude": "37.3257",
+    "longitude": "28.7957",
+    "depth_km": "5.0",
+    "magnitude": "1.5",
+    "location": "ALANYURT-KALE (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.24 20:05:50",
+    "latitude": "37.1300",
+    "longitude": "28.8107",
+    "depth_km": "5.4",
+    "magnitude": "2.0",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 20:04:41",
+    "latitude": "38.0107",
+    "longitude": "37.5610",
+    "depth_km": "20.9",
+    "magnitude": "1.6",
+    "location": "TATLAR-NURHAK (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.24 19:00:20",
+    "latitude": "37.1360",
+    "longitude": "28.8163",
+    "depth_km": "7.9",
+    "magnitude": "3.6",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 18:51:24",
+    "latitude": "37.1495",
+    "longitude": "28.8282",
+    "depth_km": "11.4",
+    "magnitude": "3.1",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 18:41:40",
+    "latitude": "37.1370",
+    "longitude": "28.8268",
+    "depth_km": "6.2",
+    "magnitude": "3.3",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 18:33:03",
+    "latitude": "37.1463",
+    "longitude": "28.8107",
+    "depth_km": "6.0",
+    "magnitude": "2.4",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 18:31:02",
+    "latitude": "37.1197",
+    "longitude": "28.7998",
+    "depth_km": "9.4",
+    "magnitude": "2.2",
+    "location": "YAYLA-KOYCEGIZ (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 17:57:18",
+    "latitude": "39.3953",
+    "longitude": "40.2745",
+    "depth_km": "5.7",
+    "magnitude": "2.1",
+    "location": "SAMPASAKARADERBENDI-PULUMUR (TUNCELI) \u0130lksel"
+}
+{
+    "date": "2024.12.24 17:47:40",
+    "latitude": "40.2012",
+    "longitude": "31.7162",
+    "depth_km": "7.3",
+    "magnitude": "2.1",
+    "location": "SEKLI-BEYPAZARI (ANKARA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 16:39:57",
+    "latitude": "35.8037",
+    "longitude": "43.4887",
+    "depth_km": "1.9",
+    "magnitude": "4.0",
+    "location": "IRAK \u0130lksel"
+}
+{
+    "date": "2024.12.24 16:20:35",
+    "latitude": "37.2015",
+    "longitude": "36.9585",
+    "depth_km": "5.7",
+    "magnitude": "1.9",
+    "location": "SATIRHUYUK-NURDAGI (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.24 16:17:59",
+    "latitude": "37.1725",
+    "longitude": "36.9650",
+    "depth_km": "10.5",
+    "magnitude": "1.9",
+    "location": "SAKCAGOZE-NURDAGI (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.24 15:28:56",
+    "latitude": "37.1547",
+    "longitude": "28.8347",
+    "depth_km": "10.1",
+    "magnitude": "2.1",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 15:28:07",
+    "latitude": "39.9363",
+    "longitude": "39.2873",
+    "depth_km": "7.5",
+    "magnitude": "2.1",
+    "location": "CEMALLI-KELKIT (GUMUSHANE) \u0130lksel"
+}
+{
+    "date": "2024.12.24 14:50:20",
+    "latitude": "39.0795",
+    "longitude": "40.3065",
+    "depth_km": "19.2",
+    "magnitude": "1.8",
+    "location": "GUNGOREN-(BINGOL) \u0130lksel"
+}
+{
+    "date": "2024.12.24 14:46:41",
+    "latitude": "39.0800",
+    "longitude": "40.3055",
+    "depth_km": "16.2",
+    "magnitude": "1.9",
+    "location": "GUNGOREN-(BINGOL) \u0130lksel"
+}
+{
+    "date": "2024.12.24 13:26:17",
+    "latitude": "35.2363",
+    "longitude": "33.3645",
+    "depth_km": "0.0",
+    "magnitude": "1.6",
+    "location": "KIBRIS-LEFKOSA \u0130lksel"
+}
+{
+    "date": "2024.12.24 13:11:55",
+    "latitude": "39.0292",
+    "longitude": "27.2837",
+    "depth_km": "9.1",
+    "magnitude": "1.4",
+    "location": "CIFTLIKKOY-KINIK (IZMIR) \u0130lksel"
+}
+{
+    "date": "2024.12.24 12:26:38",
+    "latitude": "39.6530",
+    "longitude": "28.1290",
+    "depth_km": "8.4",
+    "magnitude": "1.9",
+    "location": "SEREMETLER-KEPSUT (BALIKESIR) \u0130lksel"
+}
+{
+    "date": "2024.12.24 11:39:53",
+    "latitude": "40.3822",
+    "longitude": "33.4137",
+    "depth_km": "7.1",
+    "magnitude": "2.0",
+    "location": "HANCILI-KALECIK (ANKARA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 09:46:23",
+    "latitude": "36.1157",
+    "longitude": "28.1068",
+    "depth_km": "11.6",
+    "magnitude": "2.4",
+    "location": "RODOS ADASI (AKDENIZ) \u0130lksel"
+}
+{
+    "date": "2024.12.24 09:32:41",
+    "latitude": "37.8778",
+    "longitude": "27.1760",
+    "depth_km": "11.7",
+    "magnitude": "1.7",
+    "location": "KUSADASI KORFEZI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.24 08:56:52",
+    "latitude": "40.8850",
+    "longitude": "31.6727",
+    "depth_km": "11.9",
+    "magnitude": "1.4",
+    "location": "MESCICELE-(BOLU) \u0130lksel"
+}
+{
+    "date": "2024.12.24 08:25:32",
+    "latitude": "41.0812",
+    "longitude": "25.6325",
+    "depth_km": "11.8",
+    "magnitude": "2.0",
+    "location": "YUNANISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.24 08:15:55",
+    "latitude": "39.0700",
+    "longitude": "27.3007",
+    "depth_km": "12.2",
+    "magnitude": "2.1",
+    "location": "KARATEKELI-KINIK (IZMIR) \u0130lksel"
+}
+{
+    "date": "2024.12.24 07:43:31",
+    "latitude": "40.2212",
+    "longitude": "23.1058",
+    "depth_km": "5.0",
+    "magnitude": "2.9",
+    "location": "YUNANISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.24 07:39:05",
+    "latitude": "40.1243",
+    "longitude": "23.2450",
+    "depth_km": "10.2",
+    "magnitude": "3.8",
+    "location": "YUNANISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.24 07:32:49",
+    "latitude": "38.1243",
+    "longitude": "38.4655",
+    "depth_km": "3.7",
+    "magnitude": "2.1",
+    "location": "AKSU-SINCIK (ADIYAMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.24 07:30:01",
+    "latitude": "37.2105",
+    "longitude": "36.8007",
+    "depth_km": "7.5",
+    "magnitude": "1.4",
+    "location": "MESTHUYUK-NURDAGI (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.24 07:25:51",
+    "latitude": "37.7813",
+    "longitude": "35.6922",
+    "depth_km": "8.4",
+    "magnitude": "0.9",
+    "location": "ORTAKOY-FEKE (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 07:20:11",
+    "latitude": "36.1328",
+    "longitude": "36.0318",
+    "depth_km": "4.7",
+    "magnitude": "2.3",
+    "location": "UZUNBAG-SAMANDAG (HATAY) \u0130lksel"
+}
+{
+    "date": "2024.12.24 06:36:47",
+    "latitude": "38.8922",
+    "longitude": "40.1380",
+    "depth_km": "17.1",
+    "magnitude": "1.7",
+    "location": "ALTINOLUK-KARAKOCAN (ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.24 06:27:04",
+    "latitude": "38.1825",
+    "longitude": "37.4872",
+    "depth_km": "5.3",
+    "magnitude": "1.5",
+    "location": "GUCUK-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.24 06:26:28",
+    "latitude": "39.3448",
+    "longitude": "26.1348",
+    "depth_km": "13.0",
+    "magnitude": "1.9",
+    "location": "MIDILLI ADASI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.24 05:56:22",
+    "latitude": "37.8810",
+    "longitude": "29.2497",
+    "depth_km": "4.4",
+    "magnitude": "1.1",
+    "location": "IRLIGANLI-(DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.24 05:22:40",
+    "latitude": "39.0662",
+    "longitude": "42.4068",
+    "depth_km": "9.9",
+    "magnitude": "1.3",
+    "location": "GUMUSPINAR-BULANIK (MUS) \u0130lksel"
+}
+{
+    "date": "2024.12.24 05:19:32",
+    "latitude": "35.4673",
+    "longitude": "27.3003",
+    "depth_km": "6.7",
+    "magnitude": "2.7",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.24 04:42:19",
+    "latitude": "37.3695",
+    "longitude": "36.7485",
+    "depth_km": "10.6",
+    "magnitude": "1.2",
+    "location": "KUCUKIMALI-TURKOGLU (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.24 04:20:26",
+    "latitude": "36.2408",
+    "longitude": "28.2062",
+    "depth_km": "5.0",
+    "magnitude": "2.1",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.24 04:01:01",
+    "latitude": "37.3378",
+    "longitude": "35.4928",
+    "depth_km": "6.7",
+    "magnitude": "1.3",
+    "location": "TOPALLI-ALADAG (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 03:55:36",
+    "latitude": "37.4978",
+    "longitude": "37.2208",
+    "depth_km": "5.3",
+    "magnitude": "2.2",
+    "location": "SOGUTLU-PAZARCIK (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.24 03:53:30",
+    "latitude": "39.0965",
+    "longitude": "43.8135",
+    "depth_km": "5.0",
+    "magnitude": "1.7",
+    "location": "GONDERME-MURADIYE (VAN) \u0130lksel"
+}
+{
+    "date": "2024.12.24 03:51:51",
+    "latitude": "37.6190",
+    "longitude": "36.0257",
+    "depth_km": "12.5",
+    "magnitude": "2.1",
+    "location": "BOZTAHTA-KOZAN (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 03:20:01",
+    "latitude": "36.5093",
+    "longitude": "36.1693",
+    "depth_km": "5.0",
+    "magnitude": "1.3",
+    "location": "MUFTULER-BELEN (HATAY) \u0130lksel"
+}
+{
+    "date": "2024.12.24 02:46:31",
+    "latitude": "39.5047",
+    "longitude": "32.7458",
+    "depth_km": "5.0",
+    "magnitude": "1.8",
+    "location": "CULUK-HAYMANA (ANKARA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 02:39:35",
+    "latitude": "38.0675",
+    "longitude": "36.7180",
+    "depth_km": "5.1",
+    "magnitude": "1.5",
+    "location": "FINDIK-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.24 02:33:29",
+    "latitude": "42.2755",
+    "longitude": "24.0195",
+    "depth_km": "5.0",
+    "magnitude": "2.8",
+    "location": "BULGARISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.24 02:29:16",
+    "latitude": "37.5588",
+    "longitude": "35.8547",
+    "depth_km": "6.3",
+    "magnitude": "1.1",
+    "location": "DAGLICA-KOZAN (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 01:34:55",
+    "latitude": "39.4167",
+    "longitude": "28.1337",
+    "depth_km": "7.5",
+    "magnitude": "1.7",
+    "location": "ISIKLAR-BIGADIC (BALIKESIR) \u0130lksel"
+}
+{
+    "date": "2024.12.24 00:59:00",
+    "latitude": "35.6983",
+    "longitude": "25.8050",
+    "depth_km": "5.5",
+    "magnitude": "2.3",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.24 00:49:32",
+    "latitude": "37.1833",
+    "longitude": "28.8015",
+    "depth_km": "3.8",
+    "magnitude": "1.7",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.24 00:01:26",
+    "latitude": "37.6493",
+    "longitude": "35.8290",
+    "depth_km": "6.4",
+    "magnitude": "1.7",
+    "location": "CAMDERE-KOZAN (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 23:47:20",
+    "latitude": "39.6232",
+    "longitude": "35.3965",
+    "depth_km": "3.9",
+    "magnitude": "1.5",
+    "location": "BEBEKKOY-SARIKAYA (YOZGAT) \u0130lksel"
+}
+{
+    "date": "2024.12.23 23:39:41",
+    "latitude": "37.1395",
+    "longitude": "28.8403",
+    "depth_km": "9.8",
+    "magnitude": "2.3",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 22:43:08",
+    "latitude": "38.4533",
+    "longitude": "39.2715",
+    "depth_km": "5.0",
+    "magnitude": "2.0",
+    "location": "SIVRICE (ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.23 22:29:54",
+    "latitude": "37.6973",
+    "longitude": "38.7132",
+    "depth_km": "6.3",
+    "magnitude": "1.7",
+    "location": "YESILKAYA-KAHTA (ADIYAMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.23 21:53:42",
+    "latitude": "37.1435",
+    "longitude": "28.8318",
+    "depth_km": "14.6",
+    "magnitude": "1.7",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 21:39:18",
+    "latitude": "38.2870",
+    "longitude": "37.8127",
+    "depth_km": "5.0",
+    "magnitude": "3.2",
+    "location": "ORTAKOY-AKCADAG (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 20:52:23",
+    "latitude": "38.4983",
+    "longitude": "37.5343",
+    "depth_km": "5.0",
+    "magnitude": "1.3",
+    "location": "KARSIYAKA-DARENDE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 19:06:06",
+    "latitude": "38.5777",
+    "longitude": "37.3913",
+    "depth_km": "2.0",
+    "magnitude": "1.7",
+    "location": "GUNPINAR-DARENDE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 16:00:44",
+    "latitude": "37.1998",
+    "longitude": "28.8628",
+    "depth_km": "5.3",
+    "magnitude": "1.8",
+    "location": "BEYAGAC (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.23 15:40:14",
+    "latitude": "37.5523",
+    "longitude": "36.0592",
+    "depth_km": "19.6",
+    "magnitude": "1.2",
+    "location": "YESILYAYLA-SUMBAS (OSMANIYE) \u0130lksel"
+}
+{
+    "date": "2024.12.23 15:33:51",
+    "latitude": "38.8143",
+    "longitude": "27.8303",
+    "depth_km": "8.7",
+    "magnitude": "2.0",
+    "location": "SAZOBA-AKHISAR (MANISA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 15:29:55",
+    "latitude": "37.5998",
+    "longitude": "37.2502",
+    "depth_km": "5.0",
+    "magnitude": "1.9",
+    "location": "KAZANLIPINAR-(KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.23 15:29:15",
+    "latitude": "40.7020",
+    "longitude": "29.2513",
+    "depth_km": "11.4",
+    "magnitude": "2.0",
+    "location": "YALOVA ACIKLARI (MARMARA DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.23 12:13:56",
+    "latitude": "36.8708",
+    "longitude": "27.5693",
+    "depth_km": "11.2",
+    "magnitude": "1.6",
+    "location": "GOKOVA KORFEZI (AKDENIZ) \u0130lksel"
+}
+{
+    "date": "2024.12.23 11:13:13",
+    "latitude": "38.4448",
+    "longitude": "37.3158",
+    "depth_km": "4.8",
+    "magnitude": "1.5",
+    "location": "AKARCA-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.23 10:58:05",
+    "latitude": "37.4930",
+    "longitude": "40.3655",
+    "depth_km": "5.0",
+    "magnitude": "1.6",
+    "location": "EKINCILER-MAZIDAGI (MARDIN) \u0130lksel"
+}
+{
+    "date": "2024.12.23 09:58:50",
+    "latitude": "39.8427",
+    "longitude": "29.8963",
+    "depth_km": "7.7",
+    "magnitude": "2.0",
+    "location": "ERIKLI-BOZUYUK (BILECIK) \u0130lksel"
+}
+{
+    "date": "2024.12.23 09:06:08",
+    "latitude": "37.1572",
+    "longitude": "28.9405",
+    "depth_km": "6.4",
+    "magnitude": "2.0",
+    "location": "ESENLER-BEYAGAC (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.23 08:40:37",
+    "latitude": "36.9367",
+    "longitude": "36.6720",
+    "depth_km": "5.2",
+    "magnitude": "1.7",
+    "location": "AGALAROBASI-ISLAHIYE (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.23 08:39:14",
+    "latitude": "38.9587",
+    "longitude": "26.1532",
+    "depth_km": "5.6",
+    "magnitude": "2.2",
+    "location": "MIDILLI ADASI GUNEYI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.23 08:07:10",
+    "latitude": "38.1295",
+    "longitude": "36.5187",
+    "depth_km": "8.2",
+    "magnitude": "1.3",
+    "location": "BOZHUYUK-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.23 07:12:01",
+    "latitude": "40.6450",
+    "longitude": "29.0930",
+    "depth_km": "16.9",
+    "magnitude": "2.0",
+    "location": "CINARCIK (YALOVA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 06:42:03",
+    "latitude": "38.1288",
+    "longitude": "38.4603",
+    "depth_km": "10.8",
+    "magnitude": "1.8",
+    "location": "AKSU-SINCIK (ADIYAMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.23 06:30:22",
+    "latitude": "37.0690",
+    "longitude": "27.8153",
+    "depth_km": "14.3",
+    "magnitude": "1.9",
+    "location": "FESLEGEN-MILAS (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 06:10:23",
+    "latitude": "39.7900",
+    "longitude": "41.7625",
+    "depth_km": "7.9",
+    "magnitude": "1.9",
+    "location": "EYUPLER-KOPRUKOY (ERZURUM) \u0130lksel"
+}
+{
+    "date": "2024.12.23 06:01:41",
+    "latitude": "37.4558",
+    "longitude": "37.1590",
+    "depth_km": "5.6",
+    "magnitude": "1.5",
+    "location": "DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.23 05:45:07",
+    "latitude": "38.2517",
+    "longitude": "38.4177",
+    "depth_km": "5.0",
+    "magnitude": "1.7",
+    "location": "UZUMLU-(MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 05:37:12",
+    "latitude": "38.2500",
+    "longitude": "37.9407",
+    "depth_km": "7.6",
+    "magnitude": "1.8",
+    "location": "OREN-AKCADAG (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 05:23:50",
+    "latitude": "37.8400",
+    "longitude": "26.9107",
+    "depth_km": "9.7",
+    "magnitude": "2.0",
+    "location": "KUSADASI KORFEZI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.23 05:20:10",
+    "latitude": "37.1428",
+    "longitude": "28.8218",
+    "depth_km": "9.6",
+    "magnitude": "2.9",
+    "location": "KARACAOREN-(MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 04:17:07",
+    "latitude": "38.6025",
+    "longitude": "38.0028",
+    "depth_km": "8.4",
+    "magnitude": "1.9",
+    "location": "BOGURTLEN-YAZIHAN (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 04:01:50",
+    "latitude": "37.3722",
+    "longitude": "36.9563",
+    "depth_km": "6.8",
+    "magnitude": "1.4",
+    "location": "OZBEK-TURKOGLU (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.23 03:58:33",
+    "latitude": "38.1187",
+    "longitude": "38.4610",
+    "depth_km": "5.0",
+    "magnitude": "1.9",
+    "location": "AKSU-SINCIK (ADIYAMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.23 03:54:44",
+    "latitude": "38.5370",
+    "longitude": "28.2495",
+    "depth_km": "8.1",
+    "magnitude": "1.6",
+    "location": "DURASILLI-SALIHLI (MANISA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 03:39:43",
+    "latitude": "38.3278",
+    "longitude": "37.7457",
+    "depth_km": "16.4",
+    "magnitude": "1.5",
+    "location": "KEPEZ-AKCADAG (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 03:09:37",
+    "latitude": "37.4982",
+    "longitude": "36.8923",
+    "depth_km": "5.4",
+    "magnitude": "1.6",
+    "location": "HACIMUSTAFA-(KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.23 01:40:14",
+    "latitude": "36.7642",
+    "longitude": "36.0015",
+    "depth_km": "8.6",
+    "magnitude": "2.1",
+    "location": "ISKENDERUN KORFEZI (AKDENIZ) \u0130lksel"
+}
+{
+    "date": "2024.12.23 01:37:47",
+    "latitude": "38.3545",
+    "longitude": "38.7858",
+    "depth_km": "4.2",
+    "magnitude": "2.5",
+    "location": "CANAKCI-KALE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.23 01:24:57",
+    "latitude": "39.7833",
+    "longitude": "41.7820",
+    "depth_km": "5.0",
+    "magnitude": "2.8",
+    "location": "EYUPLER-KOPRUKOY (ERZURUM) \u0130lksel"
+}
+{
+    "date": "2024.12.23 01:15:55",
+    "latitude": "38.5097",
+    "longitude": "28.2342",
+    "depth_km": "7.2",
+    "magnitude": "1.8",
+    "location": "DURASILLI-SALIHLI (MANISA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 22:09:52",
+    "latitude": "34.6562",
+    "longitude": "26.2408",
+    "depth_km": "8.2",
+    "magnitude": "4.8",
+    "location": "GIRIT ADASI ACIKLARI (AKDENIZ) \u0130lksel"
+}
+{
+    "date": "2024.12.22 21:12:13",
+    "latitude": "36.1312",
+    "longitude": "26.9902",
+    "depth_km": "8.1",
+    "magnitude": "2.9",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.22 20:39:05",
+    "latitude": "38.8117",
+    "longitude": "37.4413",
+    "depth_km": "5.0",
+    "magnitude": "2.5",
+    "location": "KULAHLI-GURUN (SIVAS) \u0130lksel"
+}
+{
+    "date": "2024.12.22 20:18:27",
+    "latitude": "39.4998",
+    "longitude": "38.9343",
+    "depth_km": "3.2",
+    "magnitude": "2.4",
+    "location": "YUCEBELEN-KEMAH (ERZINCAN) \u0130lksel"
+}
+{
+    "date": "2024.12.22 19:39:43",
+    "latitude": "38.1308",
+    "longitude": "37.1325",
+    "depth_km": "5.6",
+    "magnitude": "1.9",
+    "location": "GUPLUCE-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.22 18:29:46",
+    "latitude": "37.1562",
+    "longitude": "28.8455",
+    "depth_km": "11.1",
+    "magnitude": "1.6",
+    "location": "BEYAGAC (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.22 17:10:55",
+    "latitude": "37.8288",
+    "longitude": "36.2633",
+    "depth_km": "16.0",
+    "magnitude": "1.5",
+    "location": "TOPALLAR-SAIMBEYLI (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 16:56:25",
+    "latitude": "38.5630",
+    "longitude": "40.4000",
+    "depth_km": "7.5",
+    "magnitude": "2.8",
+    "location": "YELKAYA-GENC (BINGOL) \u0130lksel"
+}
+{
+    "date": "2024.12.22 16:11:20",
+    "latitude": "37.8363",
+    "longitude": "36.4532",
+    "depth_km": "8.9",
+    "magnitude": "2.0",
+    "location": "GEBEN-ANDIRIN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.22 15:57:52",
+    "latitude": "38.4443",
+    "longitude": "39.2727",
+    "depth_km": "5.8",
+    "magnitude": "1.8",
+    "location": "DUZBAHCE-SIVRICE (ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.22 15:08:12",
+    "latitude": "40.8417",
+    "longitude": "27.9512",
+    "depth_km": "8.1",
+    "magnitude": "3.6",
+    "location": "MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA DENIZI\u0130lksel"
+}
+{
+    "date": "2024.12.22 14:53:06",
+    "latitude": "34.2837",
+    "longitude": "25.1728",
+    "depth_km": "10.4",
+    "magnitude": "3.9",
+    "location": "GIRIT ADASI ACIKLARI (AKDENIZ) \u0130lksel"
+}
+{
+    "date": "2024.12.22 14:28:20",
+    "latitude": "38.3102",
+    "longitude": "38.8427",
+    "depth_km": "8.1",
+    "magnitude": "1.7",
+    "location": "GUNDEGER-PUTURGE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 13:55:59",
+    "latitude": "37.7478",
+    "longitude": "35.5892",
+    "depth_km": "5.4",
+    "magnitude": "1.3",
+    "location": "KAPIKAYA-KOZAN (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 13:47:24",
+    "latitude": "38.2380",
+    "longitude": "37.2573",
+    "depth_km": "20.8",
+    "magnitude": "1.6",
+    "location": "CITLIK-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.22 13:01:06",
+    "latitude": "37.9562",
+    "longitude": "36.3317",
+    "depth_km": "2.1",
+    "magnitude": "2.3",
+    "location": "SIRMALI-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.22 13:00:21",
+    "latitude": "39.4945",
+    "longitude": "28.1363",
+    "depth_km": "8.2",
+    "magnitude": "2.1",
+    "location": "ISKELE-BIGADIC (BALIKESIR) \u0130lksel"
+}
+{
+    "date": "2024.12.22 12:46:34",
+    "latitude": "38.5120",
+    "longitude": "26.8690",
+    "depth_km": "5.4",
+    "magnitude": "2.1",
+    "location": "IZMIR KORFEZI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.22 12:42:43",
+    "latitude": "40.7682",
+    "longitude": "33.6147",
+    "depth_km": "3.6",
+    "magnitude": "3.2",
+    "location": "AHLATKOY-(CANKIRI) \u0130lksel"
+}
+{
+    "date": "2024.12.22 12:07:36",
+    "latitude": "38.7725",
+    "longitude": "40.0195",
+    "depth_km": "9.6",
+    "magnitude": "2.6",
+    "location": "SARIBUGDAY-KOVANCILAR (ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.22 12:02:40",
+    "latitude": "37.1067",
+    "longitude": "27.8708",
+    "depth_km": "0.0",
+    "magnitude": "1.8",
+    "location": "BAYIRKOY-MILAS (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 11:54:34",
+    "latitude": "36.2465",
+    "longitude": "28.9470",
+    "depth_km": "14.0",
+    "magnitude": "2.3",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.22 11:16:38",
+    "latitude": "37.6715",
+    "longitude": "35.7473",
+    "depth_km": "1.6",
+    "magnitude": "1.7",
+    "location": "YANALERIK-KOZAN (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 11:03:33",
+    "latitude": "37.6388",
+    "longitude": "35.9248",
+    "depth_km": "4.1",
+    "magnitude": "2.3",
+    "location": "CURUKLU-KOZAN (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 10:40:41",
+    "latitude": "39.0790",
+    "longitude": "40.1278",
+    "depth_km": "6.6",
+    "magnitude": "2.0",
+    "location": "SARIBASAK-KARAKOCAN (ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.22 09:55:50",
+    "latitude": "36.0032",
+    "longitude": "27.1865",
+    "depth_km": "10.5",
+    "magnitude": "1.9",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.22 09:32:53",
+    "latitude": "38.1840",
+    "longitude": "38.5862",
+    "depth_km": "13.4",
+    "magnitude": "1.8",
+    "location": "SOGUTLU-PUTURGE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 08:50:13",
+    "latitude": "38.1048",
+    "longitude": "38.4475",
+    "depth_km": "8.6",
+    "magnitude": "1.5",
+    "location": "KARAGOL-CELIKHAN (ADIYAMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.22 08:45:32",
+    "latitude": "37.8167",
+    "longitude": "36.5322",
+    "depth_km": "5.0",
+    "magnitude": "2.6",
+    "location": "KUMARLI-(KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.22 08:09:17",
+    "latitude": "36.3898",
+    "longitude": "36.2658",
+    "depth_km": "5.6",
+    "magnitude": "2.4",
+    "location": "OVAKENT-(HATAY) \u0130lksel"
+}
+{
+    "date": "2024.12.22 07:53:03",
+    "latitude": "38.0862",
+    "longitude": "37.0153",
+    "depth_km": "27.4",
+    "magnitude": "1.4",
+    "location": "CALIS-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.22 07:50:30",
+    "latitude": "37.6838",
+    "longitude": "27.6360",
+    "depth_km": "11.9",
+    "magnitude": "1.8",
+    "location": "ESENTEPE-KOCARLI (AYDIN) \u0130lksel"
+}
+{
+    "date": "2024.12.22 07:03:09",
+    "latitude": "39.0673",
+    "longitude": "28.0442",
+    "depth_km": "5.2",
+    "magnitude": "1.4",
+    "location": "KOCAKAGAN-AKHISAR (MANISA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 04:45:41",
+    "latitude": "35.8797",
+    "longitude": "35.9895",
+    "depth_km": "20.0",
+    "magnitude": "2.3",
+    "location": "YAYLADAGI (HATAY) \u0130lksel"
+}
+{
+    "date": "2024.12.22 04:19:37",
+    "latitude": "35.6413",
+    "longitude": "30.8427",
+    "depth_km": "11.2",
+    "magnitude": "2.2",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.22 03:34:19",
+    "latitude": "38.2983",
+    "longitude": "31.1645",
+    "depth_km": "7.9",
+    "magnitude": "2.5",
+    "location": "YALVAC (ISPARTA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 03:29:00",
+    "latitude": "36.5525",
+    "longitude": "26.8417",
+    "depth_km": "26.5",
+    "magnitude": "2.4",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.22 02:57:39",
+    "latitude": "38.5007",
+    "longitude": "28.2232",
+    "depth_km": "10.5",
+    "magnitude": "1.5",
+    "location": "KARAOGLANLI-SALIHLI (MANISA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 02:56:08",
+    "latitude": "36.9705",
+    "longitude": "36.3455",
+    "depth_km": "12.4",
+    "magnitude": "2.0",
+    "location": "KULLU-(OSMANIYE) \u0130lksel"
+}
+{
+    "date": "2024.12.22 02:05:15",
+    "latitude": "38.1075",
+    "longitude": "38.4503",
+    "depth_km": "15.0",
+    "magnitude": "1.4",
+    "location": "KARAGOL-CELIKHAN (ADIYAMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.22 01:54:22",
+    "latitude": "37.0838",
+    "longitude": "28.5267",
+    "depth_km": "19.5",
+    "magnitude": "1.7",
+    "location": "CICEKLI-ULA (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 01:23:14",
+    "latitude": "40.4113",
+    "longitude": "28.8383",
+    "depth_km": "5.2",
+    "magnitude": "1.7",
+    "location": "KUMYAKA-MUDANYA (BURSA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 01:10:50",
+    "latitude": "37.4753",
+    "longitude": "35.5158",
+    "depth_km": "18.1",
+    "magnitude": "1.5",
+    "location": "DOGANALANI-KOZAN (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 00:55:09",
+    "latitude": "38.3902",
+    "longitude": "37.4848",
+    "depth_km": "5.0",
+    "magnitude": "1.5",
+    "location": "YALINTAS-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.22 00:53:59",
+    "latitude": "39.8520",
+    "longitude": "42.9618",
+    "depth_km": "14.3",
+    "magnitude": "1.3",
+    "location": "AHMETBEY-(AGRI) \u0130lksel"
+}
+{
+    "date": "2024.12.22 00:48:23",
+    "latitude": "38.6475",
+    "longitude": "38.0307",
+    "depth_km": "7.7",
+    "magnitude": "1.4",
+    "location": "ALICAN-YAZIHAN (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 00:40:25",
+    "latitude": "37.7737",
+    "longitude": "35.6450",
+    "depth_km": "4.8",
+    "magnitude": "2.2",
+    "location": "GORBEYAZ-KOZAN (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.22 00:24:08",
+    "latitude": "39.6898",
+    "longitude": "44.3783",
+    "depth_km": "7.7",
+    "magnitude": "2.2",
+    "location": "YENIDOGAN-ARALIK (IGDIR) \u0130lksel"
+}
+{
+    "date": "2024.12.21 21:41:07",
+    "latitude": "37.0902",
+    "longitude": "30.5262",
+    "depth_km": "2.5",
+    "magnitude": "1.5",
+    "location": "YAGCA-DOSEMEALTI (ANTALYA) \u0130lksel"
+}
+{
+    "date": "2024.12.21 21:28:52",
+    "latitude": "35.0987",
+    "longitude": "34.3950",
+    "depth_km": "39.7",
+    "magnitude": "2.2",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.21 20:50:45",
+    "latitude": "37.1250",
+    "longitude": "27.8768",
+    "depth_km": "0.0",
+    "magnitude": "1.6",
+    "location": "BAGDAMLARI-MILAS (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.21 20:49:00",
+    "latitude": "37.9947",
+    "longitude": "37.5965",
+    "depth_km": "4.0",
+    "magnitude": "1.1",
+    "location": "GOVDELI-DOGANSEHIR (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.21 20:31:28",
+    "latitude": "40.9518",
+    "longitude": "28.7407",
+    "depth_km": "13.8",
+    "magnitude": "3.0",
+    "location": "AVCILAR (ISTANBUL) \u0130lksel"
+}
+{
+    "date": "2024.12.21 20:07:37",
+    "latitude": "37.7735",
+    "longitude": "36.5700",
+    "depth_km": "8.7",
+    "magnitude": "1.5",
+    "location": "KAYNAR-(KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.21 19:59:40",
+    "latitude": "37.8695",
+    "longitude": "36.0507",
+    "depth_km": "14.1",
+    "magnitude": "1.3",
+    "location": "HIMMETLI-SAIMBEYLI (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.21 19:04:26",
+    "latitude": "40.7358",
+    "longitude": "27.4023",
+    "depth_km": "13.6",
+    "magnitude": "2.5",
+    "location": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.21 18:24:30",
+    "latitude": "38.3280",
+    "longitude": "39.4263",
+    "depth_km": "4.5",
+    "magnitude": "1.4",
+    "location": "KOCKONAGI-MADEN (ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.21 17:52:45",
+    "latitude": "39.2835",
+    "longitude": "44.0757",
+    "depth_km": "5.0",
+    "magnitude": "2.2",
+    "location": "SOGUKSU-CALDIRAN (VAN) \u0130lksel"
+}
+{
+    "date": "2024.12.21 17:52:16",
+    "latitude": "38.1552",
+    "longitude": "38.8027",
+    "depth_km": "15.7",
+    "magnitude": "1.8",
+    "location": "GOKCELI-PUTURGE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.21 17:41:24",
+    "latitude": "39.7252",
+    "longitude": "26.3817",
+    "depth_km": "6.2",
+    "magnitude": "1.4",
+    "location": "CARIKSIZ-EZINE (CANAKKALE) \u0130lksel"
+}
+{
+    "date": "2024.12.21 17:21:45",
+    "latitude": "39.3105",
+    "longitude": "37.6430",
+    "depth_km": "2.9",
+    "magnitude": "1.2",
+    "location": "KABAKCEVLIGI-KANGAL (SIVAS) \u0130lksel"
+}
+{
+    "date": "2024.12.21 16:34:04",
+    "latitude": "38.4273",
+    "longitude": "27.3758",
+    "depth_km": "13.1",
+    "magnitude": "1.9",
+    "location": "KIZILUZUM-KEMALPASA (IZMIR) \u0130lksel"
+}
+{
+    "date": "2024.12.21 16:05:27",
+    "latitude": "37.9552",
+    "longitude": "36.6545",
+    "depth_km": "14.5",
+    "magnitude": "1.8",
+    "location": "ELMALI-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.21 13:54:29",
+    "latitude": "40.0975",
+    "longitude": "23.3060",
+    "depth_km": "12.1",
+    "magnitude": "2.9",
+    "location": "YUNANISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.21 13:45:31",
+    "latitude": "38.1180",
+    "longitude": "36.8618",
+    "depth_km": "7.5",
+    "magnitude": "2.1",
+    "location": "KAMISCIK-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.21 13:40:51",
+    "latitude": "37.3112",
+    "longitude": "37.0248",
+    "depth_km": "5.0",
+    "magnitude": "2.2",
+    "location": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.21 12:28:07",
+    "latitude": "37.1252",
+    "longitude": "27.8518",
+    "depth_km": "0.0",
+    "magnitude": "2.0",
+    "location": "PINARARASI-MILAS (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.21 12:03:02",
+    "latitude": "38.2517",
+    "longitude": "38.5775",
+    "depth_km": "10.0",
+    "magnitude": "2.3",
+    "location": "TANISIK-(MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.21 11:52:30",
+    "latitude": "37.7802",
+    "longitude": "36.5285",
+    "depth_km": "7.9",
+    "magnitude": "2.4",
+    "location": "KAYNAR-(KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.21 10:04:27",
+    "latitude": "41.0657",
+    "longitude": "37.4173",
+    "depth_km": "13.4",
+    "magnitude": "1.9",
+    "location": "ESKIKIZILCAKESE-UNYE (ORDU) \u0130lksel"
+}
+{
+    "date": "2024.12.21 09:31:49",
+    "latitude": "38.2657",
+    "longitude": "37.7917",
+    "depth_km": "8.0",
+    "magnitude": "2.0",
+    "location": "CEVIRME-AKCADAG (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.21 09:23:39",
+    "latitude": "38.1093",
+    "longitude": "38.5445",
+    "depth_km": "3.7",
+    "magnitude": "1.8",
+    "location": "ARIKONAK-SINCIK (ADIYAMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.21 08:00:11",
+    "latitude": "39.0315",
+    "longitude": "40.4108",
+    "depth_km": "5.0",
+    "magnitude": "2.1",
+    "location": "BALIKLICAY-(BINGOL) \u0130lksel"
+}
+{
+    "date": "2024.12.21 07:10:48",
+    "latitude": "37.8653",
+    "longitude": "29.3063",
+    "depth_km": "6.6",
+    "magnitude": "2.0",
+    "location": "GURLEYIK-HONAZ (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.21 06:11:21",
+    "latitude": "38.3453",
+    "longitude": "38.2068",
+    "depth_km": "4.1",
+    "magnitude": "1.9",
+    "location": "TOPSOGUT-(MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.21 06:10:38",
+    "latitude": "37.1262",
+    "longitude": "27.9112",
+    "depth_km": "12.5",
+    "magnitude": "1.8",
+    "location": "SEKKOY-MILAS (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.21 04:35:48",
+    "latitude": "40.0965",
+    "longitude": "24.8123",
+    "depth_km": "9.4",
+    "magnitude": "3.1",
+    "location": "EGE DENIZI \u0130lksel"
+}
+{
+    "date": "2024.12.21 03:53:36",
+    "latitude": "38.1793",
+    "longitude": "37.0740",
+    "depth_km": "16.3",
+    "magnitude": "1.1",
+    "location": "KALEALTI-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.21 03:23:33",
+    "latitude": "38.8123",
+    "longitude": "37.4115",
+    "depth_km": "9.6",
+    "magnitude": "1.7",
+    "location": "YUVA-GURUN (SIVAS) \u0130lksel"
+}
+{
+    "date": "2024.12.21 03:08:02",
+    "latitude": "38.2503",
+    "longitude": "37.7965",
+    "depth_km": "15.8",
+    "magnitude": "1.1",
+    "location": "DEDEYAZI-DOGANSEHIR (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.21 03:04:32",
+    "latitude": "38.2020",
+    "longitude": "38.6333",
+    "depth_km": "7.0",
+    "magnitude": "1.7",
+    "location": "SOGUTLU-PUTURGE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.21 03:00:27",
+    "latitude": "38.2370",
+    "longitude": "37.4103",
+    "depth_km": "21.4",
+    "magnitude": "1.1",
+    "location": "KOSEYAHYA-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.21 02:14:20",
+    "latitude": "39.1550",
+    "longitude": "26.8742",
+    "depth_km": "9.6",
+    "magnitude": "2.0",
+    "location": "GOKCEAGIL-DIKILI (IZMIR) \u0130lksel"
+}
+{
+    "date": "2024.12.21 02:08:01",
+    "latitude": "39.9815",
+    "longitude": "45.6125",
+    "depth_km": "5.0",
+    "magnitude": "2.9",
+    "location": "ERMENISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.21 02:03:55",
+    "latitude": "38.3083",
+    "longitude": "38.7483",
+    "depth_km": "21.9",
+    "magnitude": "1.8",
+    "location": "SARIOT-KALE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.21 02:01:55",
+    "latitude": "39.8590",
+    "longitude": "45.7235",
+    "depth_km": "5.0",
+    "magnitude": "4.3",
+    "location": "ERMENISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.21 01:57:06",
+    "latitude": "38.2930",
+    "longitude": "37.7990",
+    "depth_km": "1.8",
+    "magnitude": "2.0",
+    "location": "ORTAKOY-AKCADAG (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.21 01:41:19",
+    "latitude": "38.2107",
+    "longitude": "37.6857",
+    "depth_km": "16.8",
+    "magnitude": "1.5",
+    "location": "ATMALIKASANLI-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.21 00:31:15",
+    "latitude": "38.2633",
+    "longitude": "37.0902",
+    "depth_km": "2.5",
+    "magnitude": "1.8",
+    "location": "KARAHUYUK-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.21 00:06:35",
+    "latitude": "40.2143",
+    "longitude": "31.8507",
+    "depth_km": "5.6",
+    "magnitude": "2.1",
+    "location": "CAKILOBA-BEYPAZARI (ANKARA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 23:45:57",
+    "latitude": "37.1427",
+    "longitude": "27.8812",
+    "depth_km": "11.9",
+    "magnitude": "1.4",
+    "location": "BAGDAMLARI-MILAS (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 23:21:30",
+    "latitude": "38.0372",
+    "longitude": "37.7018",
+    "depth_km": "10.5",
+    "magnitude": "1.2",
+    "location": "BEGRE-DOGANSEHIR (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 22:55:00",
+    "latitude": "39.1665",
+    "longitude": "26.8492",
+    "depth_km": "6.7",
+    "magnitude": "2.3",
+    "location": "KIRATLI-DIKILI (IZMIR) \u0130lksel"
+}
+{
+    "date": "2024.12.20 22:50:14",
+    "latitude": "39.1392",
+    "longitude": "26.8820",
+    "depth_km": "12.3",
+    "magnitude": "3.0",
+    "location": "KABAKUM-DIKILI (IZMIR) \u0130lksel"
+}
+{
+    "date": "2024.12.20 22:44:31",
+    "latitude": "38.1540",
+    "longitude": "38.5030",
+    "depth_km": "2.3",
+    "magnitude": "1.8",
+    "location": "AKSU-SINCIK (ADIYAMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.20 22:33:20",
+    "latitude": "40.4390",
+    "longitude": "23.3837",
+    "depth_km": "5.4",
+    "magnitude": "2.7",
+    "location": "YUNANISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.20 21:31:02",
+    "latitude": "38.1445",
+    "longitude": "36.5985",
+    "depth_km": "2.0",
+    "magnitude": "1.4",
+    "location": "YENIYAPAN-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.20 19:53:52",
+    "latitude": "38.1737",
+    "longitude": "38.5527",
+    "depth_km": "8.3",
+    "magnitude": "1.5",
+    "location": "ULUKOY-(MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 19:42:03",
+    "latitude": "38.2565",
+    "longitude": "30.5547",
+    "depth_km": "8.6",
+    "magnitude": "1.5",
+    "location": "AKCIN-DINAR (AFYONKARAHISAR) \u0130lksel"
+}
+{
+    "date": "2024.12.20 19:27:56",
+    "latitude": "39.3987",
+    "longitude": "44.4775",
+    "depth_km": "12.7",
+    "magnitude": "2.4",
+    "location": "SARICAVUS-DOGUBAYAZIT (AGRI) \u0130lksel"
+}
+{
+    "date": "2024.12.20 19:03:04",
+    "latitude": "37.9137",
+    "longitude": "36.4107",
+    "depth_km": "12.3",
+    "magnitude": "1.5",
+    "location": "BUYUKCAMURLU-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.20 18:48:16",
+    "latitude": "38.5367",
+    "longitude": "27.1140",
+    "depth_km": "16.6",
+    "magnitude": "1.5",
+    "location": "YAMANLAR-KARSIYAKA (IZMIR) \u0130lksel"
+}
+{
+    "date": "2024.12.20 18:08:03",
+    "latitude": "35.6120",
+    "longitude": "27.2773",
+    "depth_km": "8.7",
+    "magnitude": "2.5",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.20 18:00:58",
+    "latitude": "38.5905",
+    "longitude": "27.1052",
+    "depth_km": "17.0",
+    "magnitude": "2.1",
+    "location": "YAHSELLI-MENEMEN (IZMIR) \u0130lksel"
+}
+{
+    "date": "2024.12.20 17:51:01",
+    "latitude": "38.2675",
+    "longitude": "38.1918",
+    "depth_km": "6.4",
+    "magnitude": "1.5",
+    "location": "SEYITUSAGI-YESILYURT (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 16:08:13",
+    "latitude": "39.8387",
+    "longitude": "39.9380",
+    "depth_km": "9.2",
+    "magnitude": "1.9",
+    "location": "OZANLI-CAYIRLI (ERZINCAN) \u0130lksel"
+}
+{
+    "date": "2024.12.20 16:02:03",
+    "latitude": "38.5492",
+    "longitude": "40.4203",
+    "depth_km": "3.7",
+    "magnitude": "2.0",
+    "location": "SENLIK-LICE (DIYARBAKIR) \u0130lksel"
+}
+{
+    "date": "2024.12.20 15:14:20",
+    "latitude": "38.0270",
+    "longitude": "37.5715",
+    "depth_km": "9.1",
+    "magnitude": "1.8",
+    "location": "GOVDELI-DOGANSEHIR (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 14:55:53",
+    "latitude": "36.4183",
+    "longitude": "33.4007",
+    "depth_km": "5.0",
+    "magnitude": "1.3",
+    "location": "UCOLUK-GULNAR (MERSIN) \u0130lksel"
+}
+{
+    "date": "2024.12.20 14:42:02",
+    "latitude": "38.9862",
+    "longitude": "26.1235",
+    "depth_km": "26.1",
+    "magnitude": "1.9",
+    "location": "MIDILLI ADASI GUNEYI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.20 14:07:12",
+    "latitude": "40.6193",
+    "longitude": "27.6347",
+    "depth_km": "6.8",
+    "magnitude": "1.5",
+    "location": "MARMARA DENIZI \u0130lksel"
+}
+{
+    "date": "2024.12.20 14:00:59",
+    "latitude": "38.5563",
+    "longitude": "37.9813",
+    "depth_km": "21.5",
+    "magnitude": "1.7",
+    "location": "IRIAGAC-YAZIHAN (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 13:50:52",
+    "latitude": "36.6618",
+    "longitude": "26.9697",
+    "depth_km": "119.0",
+    "magnitude": "2.6",
+    "location": "KOS ADASI (AKDENIZ) \u0130lksel"
+}
+{
+    "date": "2024.12.20 13:26:28",
+    "latitude": "39.5655",
+    "longitude": "27.6093",
+    "depth_km": "20.7",
+    "magnitude": "1.4",
+    "location": "YAREN-IVRINDI (BALIKESIR) \u0130lksel"
+}
+{
+    "date": "2024.12.20 13:11:13",
+    "latitude": "38.8413",
+    "longitude": "27.3525",
+    "depth_km": "20.5",
+    "magnitude": "2.0",
+    "location": "ORENCIK-(MANISA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 12:50:23",
+    "latitude": "39.4932",
+    "longitude": "28.1513",
+    "depth_km": "2.3",
+    "magnitude": "2.2",
+    "location": "ISKELE-BIGADIC (BALIKESIR) \u0130lksel"
+}
+{
+    "date": "2024.12.20 12:49:03",
+    "latitude": "38.6610",
+    "longitude": "39.8732",
+    "depth_km": "19.8",
+    "magnitude": "1.5",
+    "location": "UCDEGIRMENLER-PALU (ELAZIG) REVIZE01 (2024.12.20 12:49:08)"
+}
+{
+    "date": "2024.12.20 12:43:09",
+    "latitude": "38.1488",
+    "longitude": "38.4595",
+    "depth_km": "14.6",
+    "magnitude": "1.6",
+    "location": "AKSU-SINCIK (ADIYAMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.20 12:29:36",
+    "latitude": "38.3037",
+    "longitude": "38.0922",
+    "depth_km": "0.0",
+    "magnitude": "1.3",
+    "location": "AYDINLAR-AKCADAG (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 12:25:07",
+    "latitude": "37.2695",
+    "longitude": "31.9838",
+    "depth_km": "0.0",
+    "magnitude": "1.5",
+    "location": "CATMAKAYA-SEYDISEHIR (KONYA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 11:46:52",
+    "latitude": "38.0948",
+    "longitude": "29.0500",
+    "depth_km": "3.3",
+    "magnitude": "1.2",
+    "location": "CINDERE-GUNEY (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.20 10:47:01",
+    "latitude": "39.2252",
+    "longitude": "27.7182",
+    "depth_km": "0.0",
+    "magnitude": "1.5",
+    "location": "DENIS-SOMA (MANISA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 07:53:59",
+    "latitude": "38.2287",
+    "longitude": "38.0527",
+    "depth_km": "10.5",
+    "magnitude": "1.7",
+    "location": "KIRLANGIC-YESILYURT (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 07:11:54",
+    "latitude": "38.2577",
+    "longitude": "38.7593",
+    "depth_km": "6.5",
+    "magnitude": "1.9",
+    "location": "BALPINARI-PUTURGE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 06:34:51",
+    "latitude": "38.2287",
+    "longitude": "37.9897",
+    "depth_km": "17.9",
+    "magnitude": "1.5",
+    "location": "DEDEKOY-AKCADAG (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 05:52:10",
+    "latitude": "37.5415",
+    "longitude": "30.5452",
+    "depth_km": "5.0",
+    "magnitude": "1.6",
+    "location": "ALKAYA-BUCAK (BURDUR) \u0130lksel"
+}
+{
+    "date": "2024.12.20 05:44:39",
+    "latitude": "38.4495",
+    "longitude": "39.2325",
+    "depth_km": "5.5",
+    "magnitude": "2.5",
+    "location": "ALINCIK-SIVRICE (ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.20 05:37:53",
+    "latitude": "36.1427",
+    "longitude": "31.2937",
+    "depth_km": "11.2",
+    "magnitude": "2.2",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.20 04:57:05",
+    "latitude": "38.0212",
+    "longitude": "36.7370",
+    "depth_km": "26.0",
+    "magnitude": "1.3",
+    "location": "YESILKOY-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.20 04:39:50",
+    "latitude": "40.3950",
+    "longitude": "28.4537",
+    "depth_km": "11.8",
+    "magnitude": "2.3",
+    "location": "BOGAZ-KARACABEY (BURSA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 04:28:25",
+    "latitude": "37.6308",
+    "longitude": "29.9180",
+    "depth_km": "5.0",
+    "magnitude": "2.3",
+    "location": "BUYUKYAKA-YESILOVA (BURDUR) \u0130lksel"
+}
+{
+    "date": "2024.12.20 04:21:30",
+    "latitude": "39.1073",
+    "longitude": "39.0323",
+    "depth_km": "17.9",
+    "magnitude": "1.2",
+    "location": "GOZLUCAYIR-CEMISGEZEK (TUNCELI) \u0130lksel"
+}
+{
+    "date": "2024.12.20 03:27:05",
+    "latitude": "37.0830",
+    "longitude": "36.8848",
+    "depth_km": "5.4",
+    "magnitude": "2.1",
+    "location": "KUZOLUK-NURDAGI (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.20 03:22:44",
+    "latitude": "36.8753",
+    "longitude": "28.2200",
+    "depth_km": "12.3",
+    "magnitude": "1.2",
+    "location": "YESILBELDE-MARMARIS (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 03:09:09",
+    "latitude": "40.4037",
+    "longitude": "28.8380",
+    "depth_km": "10.2",
+    "magnitude": "1.8",
+    "location": "KUMYAKA-MUDANYA (BURSA) REVIZE01 (2024.12.20 03:09:09)"
+}
+{
+    "date": "2024.12.20 03:07:03",
+    "latitude": "40.4037",
+    "longitude": "28.8297",
+    "depth_km": "8.0",
+    "magnitude": "2.4",
+    "location": "KUMYAKA-MUDANYA (BURSA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 02:47:59",
+    "latitude": "37.9938",
+    "longitude": "29.5335",
+    "depth_km": "9.8",
+    "magnitude": "1.6",
+    "location": "BOGAZICI-BAKLAN (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.20 02:42:56",
+    "latitude": "38.1227",
+    "longitude": "36.6787",
+    "depth_km": "5.4",
+    "magnitude": "1.7",
+    "location": "KARAOMER-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.20 02:01:03",
+    "latitude": "40.4293",
+    "longitude": "27.1518",
+    "depth_km": "15.6",
+    "magnitude": "1.9",
+    "location": "AKSAZ-BIGA (CANAKKALE) \u0130lksel"
+}
+{
+    "date": "2024.12.20 01:29:33",
+    "latitude": "40.4005",
+    "longitude": "28.8192",
+    "depth_km": "8.1",
+    "magnitude": "2.2",
+    "location": "KUMYAKA-MUDANYA (BURSA) \u0130lksel"
+}
+{
+    "date": "2024.12.20 01:24:19",
+    "latitude": "38.0845",
+    "longitude": "37.5188",
+    "depth_km": "6.0",
+    "magnitude": "2.0",
+    "location": "SUNNETKOY-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.20 00:09:37",
+    "latitude": "37.6028",
+    "longitude": "29.9638",
+    "depth_km": "3.0",
+    "magnitude": "2.0",
+    "location": "YARISLI-YESILOVA (BURDUR) \u0130lksel"
+}
+{
+    "date": "2024.12.19 23:30:47",
+    "latitude": "37.2022",
+    "longitude": "36.0353",
+    "depth_km": "14.0",
+    "magnitude": "1.5",
+    "location": "BIRKENT-CEYHAN (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.19 23:23:00",
+    "latitude": "37.1247",
+    "longitude": "36.7458",
+    "depth_km": "8.9",
+    "magnitude": "1.6",
+    "location": "GOZLUHUYUK-NURDAGI (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.19 21:52:07",
+    "latitude": "37.3160",
+    "longitude": "36.8788",
+    "depth_km": "7.6",
+    "magnitude": "1.7",
+    "location": "BALIKALAN-NURDAGI (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.19 21:16:13",
+    "latitude": "39.7453",
+    "longitude": "38.9468",
+    "depth_km": "2.4",
+    "magnitude": "2.4",
+    "location": "AGACSARAY-KEMAH (ERZINCAN) \u0130lksel"
+}
+{
+    "date": "2024.12.19 21:11:56",
+    "latitude": "39.7457",
+    "longitude": "38.9533",
+    "depth_km": "12.2",
+    "magnitude": "1.6",
+    "location": "AGACSARAY-KEMAH (ERZINCAN) \u0130lksel"
+}
+{
+    "date": "2024.12.19 20:58:46",
+    "latitude": "39.7213",
+    "longitude": "38.9253",
+    "depth_km": "3.5",
+    "magnitude": "2.3",
+    "location": "AGACSARAY-KEMAH (ERZINCAN) \u0130lksel"
+}
+{
+    "date": "2024.12.19 20:57:22",
+    "latitude": "40.7048",
+    "longitude": "29.2600",
+    "depth_km": "8.7",
+    "magnitude": "2.5",
+    "location": "YALOVA ACIKLARI (MARMARA DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.19 20:40:40",
+    "latitude": "39.7217",
+    "longitude": "38.9252",
+    "depth_km": "8.5",
+    "magnitude": "2.2",
+    "location": "AGACSARAY-KEMAH (ERZINCAN) \u0130lksel"
+}
+{
+    "date": "2024.12.19 20:35:19",
+    "latitude": "39.7257",
+    "longitude": "38.9283",
+    "depth_km": "1.1",
+    "magnitude": "2.3",
+    "location": "AGACSARAY-KEMAH (ERZINCAN) \u0130lksel"
+}
+{
+    "date": "2024.12.19 20:05:59",
+    "latitude": "37.5542",
+    "longitude": "26.7617",
+    "depth_km": "5.0",
+    "magnitude": "1.8",
+    "location": "EGE DENIZI \u0130lksel"
+}
+{
+    "date": "2024.12.19 19:15:18",
+    "latitude": "39.3835",
+    "longitude": "28.2680",
+    "depth_km": "8.9",
+    "magnitude": "2.8",
+    "location": "ADALI-BIGADIC (BALIKESIR) \u0130lksel"
+}
+{
+    "date": "2024.12.19 18:51:43",
+    "latitude": "40.4117",
+    "longitude": "28.8413",
+    "depth_km": "15.3",
+    "magnitude": "2.2",
+    "location": "KUMYAKA-MUDANYA (BURSA) \u0130lksel"
+}
+{
+    "date": "2024.12.19 18:08:11",
+    "latitude": "40.4637",
+    "longitude": "26.2355",
+    "depth_km": "15.0",
+    "magnitude": "1.2",
+    "location": "SAROS KORFEZI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.19 17:19:54",
+    "latitude": "37.2875",
+    "longitude": "36.2255",
+    "depth_km": "7.8",
+    "magnitude": "2.0",
+    "location": "KARATEPE-KADIRLI (OSMANIYE) \u0130lksel"
+}
+{
+    "date": "2024.12.19 17:00:24",
+    "latitude": "39.3162",
+    "longitude": "23.5882",
+    "depth_km": "5.5",
+    "magnitude": "2.5",
+    "location": "YUNANISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.19 16:57:04",
+    "latitude": "37.4933",
+    "longitude": "37.2283",
+    "depth_km": "6.1",
+    "magnitude": "2.5",
+    "location": "YARBASI-PAZARCIK (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.19 16:13:40",
+    "latitude": "39.1205",
+    "longitude": "40.0900",
+    "depth_km": "5.0",
+    "magnitude": "3.1",
+    "location": "OZLUCE-KARAKOCAN (ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.19 15:53:35",
+    "latitude": "38.0707",
+    "longitude": "33.4072",
+    "depth_km": "9.1",
+    "magnitude": "1.1",
+    "location": "ESENTEPE-KARATAY (KONYA) \u0130lksel"
+}
+{
+    "date": "2024.12.19 15:29:38",
+    "latitude": "35.3567",
+    "longitude": "33.1635",
+    "depth_km": "0.0",
+    "magnitude": "1.2",
+    "location": "KIBRIS-LAPTA \u0130lksel"
+}
+{
+    "date": "2024.12.19 15:14:13",
+    "latitude": "40.3980",
+    "longitude": "28.8047",
+    "depth_km": "6.9",
+    "magnitude": "1.8",
+    "location": "ZEYTINBAGI-MUDANYA (BURSA) \u0130lksel"
+}
+{
+    "date": "2024.12.19 14:39:07",
+    "latitude": "37.9020",
+    "longitude": "36.5098",
+    "depth_km": "5.0",
+    "magnitude": "1.9",
+    "location": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.19 14:22:54",
+    "latitude": "36.6167",
+    "longitude": "36.1982",
+    "depth_km": "5.4",
+    "magnitude": "1.5",
+    "location": "CINARLI-ISKENDERUN (HATAY) \u0130lksel"
+}
+{
+    "date": "2024.12.19 14:09:25",
+    "latitude": "36.1412",
+    "longitude": "33.6597",
+    "depth_km": "0.0",
+    "magnitude": "1.5",
+    "location": "YESILOVACIK-SILIFKE (MERSIN) \u0130lksel"
+}
+{
+    "date": "2024.12.19 13:31:46",
+    "latitude": "37.6678",
+    "longitude": "38.3520",
+    "depth_km": "15.3",
+    "magnitude": "1.5",
+    "location": "DISBUDAK-(ADIYAMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.19 13:29:09",
+    "latitude": "39.1985",
+    "longitude": "29.2868",
+    "depth_km": "0.0",
+    "magnitude": "1.5",
+    "location": "HAMAMKOY-HISARCIK (KUTAHYA) \u0130lksel"
+}
+{
+    "date": "2024.12.19 13:06:39",
+    "latitude": "36.1657",
+    "longitude": "34.3767",
+    "depth_km": "5.0",
+    "magnitude": "1.6",
+    "location": "KURTULUS ACIKLARI-MERSIN (AKDENIZ) \u0130lksel"
+}
+{
+    "date": "2024.12.19 13:03:10",
+    "latitude": "35.5415",
+    "longitude": "33.5482",
+    "depth_km": "5.0",
+    "magnitude": "2.0",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.19 12:57:18",
+    "latitude": "38.4577",
+    "longitude": "39.1755",
+    "depth_km": "8.0",
+    "magnitude": "2.3",
+    "location": "DEDEYOLU-SIVRICE (ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.19 12:30:47",
+    "latitude": "39.3105",
+    "longitude": "27.8370",
+    "depth_km": "0.0",
+    "magnitude": "1.6",
+    "location": "HAMIDIYE-KIRKAGAC (MANISA) \u0130lksel"
+}
+{
+    "date": "2024.12.19 12:28:40",
+    "latitude": "36.4028",
+    "longitude": "33.7373",
+    "depth_km": "1.0",
+    "magnitude": "0.8",
+    "location": "KEBEN-SILIFKE (MERSIN) \u0130lksel"
+}
+{
+    "date": "2024.12.19 12:12:35",
+    "latitude": "38.2920",
+    "longitude": "34.7240",
+    "depth_km": "13.1",
+    "magnitude": "1.4",
+    "location": "AGCASAR-(NIGDE) \u0130lksel"
+}
+{
+    "date": "2024.12.19 12:12:01",
+    "latitude": "38.9833",
+    "longitude": "39.5328",
+    "depth_km": "9.5",
+    "magnitude": "1.5",
+    "location": "ASAGITARLACIK-MAZGIRT (TUNCELI) \u0130lksel"
+}
+{
+    "date": "2024.12.19 12:06:24",
+    "latitude": "39.3305",
+    "longitude": "27.8675",
+    "depth_km": "2.6",
+    "magnitude": "2.2",
+    "location": "KOCAISKAN-KIRKAGAC (MANISA) \u0130lksel"
+}
+{
+    "date": "2024.12.19 12:02:55",
+    "latitude": "37.8923",
+    "longitude": "41.3558",
+    "depth_km": "11.9",
+    "magnitude": "1.5",
+    "location": "ASMADERE-BESIRI (BATMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.19 11:59:21",
+    "latitude": "37.4560",
+    "longitude": "36.5365",
+    "depth_km": "27.1",
+    "magnitude": "1.1",
+    "location": "COKRAN-(KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.19 11:55:27",
+    "latitude": "38.2288",
+    "longitude": "38.2822",
+    "depth_km": "26.1",
+    "magnitude": "1.6",
+    "location": "KOZLUK-YESILYURT (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.19 11:04:20",
+    "latitude": "37.1195",
+    "longitude": "37.0090",
+    "depth_km": "0.0",
+    "magnitude": "1.6",
+    "location": "TERKEN-NURDAGI (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.19 10:19:28",
+    "latitude": "39.7558",
+    "longitude": "27.7005",
+    "depth_km": "7.7",
+    "magnitude": "1.4",
+    "location": "TURPLU-(BALIKESIR) \u0130lksel"
+}
+{
+    "date": "2024.12.19 09:48:03",
+    "latitude": "38.9900",
+    "longitude": "39.1048",
+    "depth_km": "26.6",
+    "magnitude": "1.2",
+    "location": "BULGURTEPE-PERTEK (TUNCELI) \u0130lksel"
+}
+{
+    "date": "2024.12.19 09:26:03",
+    "latitude": "40.0985",
+    "longitude": "31.7905",
+    "depth_km": "9.9",
+    "magnitude": "2.0",
+    "location": "KAYABUKU-BEYPAZARI (ANKARA) \u0130lksel"
+}
+{
+    "date": "2024.12.19 08:39:18",
+    "latitude": "36.6643",
+    "longitude": "36.4542",
+    "depth_km": "5.3",
+    "magnitude": "1.7",
+    "location": "YUVALI-HASSA (HATAY) \u0130lksel"
+}
+{
+    "date": "2024.12.19 07:49:31",
+    "latitude": "38.0000",
+    "longitude": "36.5343",
+    "depth_km": "6.6",
+    "magnitude": "1.3",
+    "location": "ASLANBEYCIFTLIGI-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.19 07:29:54",
+    "latitude": "40.0863",
+    "longitude": "36.0672",
+    "depth_km": "4.0",
+    "magnitude": "1.8",
+    "location": "ARPACIKARACAY-SULUSARAY (TOKAT) \u0130lksel"
+}
+{
+    "date": "2024.12.19 07:27:28",
+    "latitude": "35.8378",
+    "longitude": "27.1215",
+    "depth_km": "14.4",
+    "magnitude": "1.6",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.19 07:26:06",
+    "latitude": "38.0670",
+    "longitude": "36.6400",
+    "depth_km": "6.6",
+    "magnitude": "1.8",
+    "location": "GUCUKSU-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.19 07:15:44",
+    "latitude": "37.7812",
+    "longitude": "35.6623",
+    "depth_km": "19.4",
+    "magnitude": "1.1",
+    "location": "GORBEYAZ-KOZAN (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.19 06:19:16",
+    "latitude": "40.1407",
+    "longitude": "31.7078",
+    "depth_km": "10.6",
+    "magnitude": "1.6",
+    "location": "ULUKOY-NALLIHAN (ANKARA) \u0130lksel"
+}
+{
+    "date": "2024.12.19 06:02:05",
+    "latitude": "35.4927",
+    "longitude": "27.4453",
+    "depth_km": "5.0",
+    "magnitude": "2.4",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.19 05:55:25",
+    "latitude": "38.0217",
+    "longitude": "29.0852",
+    "depth_km": "14.2",
+    "magnitude": "1.0",
+    "location": "EYMIR-(DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.19 05:50:56",
+    "latitude": "37.9625",
+    "longitude": "36.3343",
+    "depth_km": "5.0",
+    "magnitude": "1.7",
+    "location": "SIRMALI-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.19 05:36:05",
+    "latitude": "40.6592",
+    "longitude": "40.5768",
+    "depth_km": "8.4",
+    "magnitude": "2.0",
+    "location": "KAMA-IKIZDERE (RIZE) \u0130lksel"
+}
+{
+    "date": "2024.12.19 05:28:16",
+    "latitude": "37.9268",
+    "longitude": "29.4943",
+    "depth_km": "10.7",
+    "magnitude": "1.4",
+    "location": "DENIZLER-CAL (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.19 05:25:12",
+    "latitude": "35.9948",
+    "longitude": "26.8498",
+    "depth_km": "12.7",
+    "magnitude": "2.0",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.19 05:24:02",
+    "latitude": "40.1728",
+    "longitude": "23.3362",
+    "depth_km": "6.3",
+    "magnitude": "2.4",
+    "location": "YUNANISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.19 04:58:41",
+    "latitude": "37.9412",
+    "longitude": "29.4785",
+    "depth_km": "7.1",
+    "magnitude": "3.7",
+    "location": "DENIZLER-CAL (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.19 04:12:35",
+    "latitude": "38.9948",
+    "longitude": "25.9702",
+    "depth_km": "13.7",
+    "magnitude": "1.7",
+    "location": "MIDILLI ADASI GUNEYI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.19 03:42:37",
+    "latitude": "37.7855",
+    "longitude": "37.6687",
+    "depth_km": "7.7",
+    "magnitude": "1.3",
+    "location": "YARBASI-GOLBASI (ADIYAMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.19 03:32:17",
+    "latitude": "40.7263",
+    "longitude": "27.4580",
+    "depth_km": "16.6",
+    "magnitude": "2.0",
+    "location": "GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.19 03:20:14",
+    "latitude": "36.0002",
+    "longitude": "27.2153",
+    "depth_km": "9.3",
+    "magnitude": "2.0",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.19 03:05:14",
+    "latitude": "36.2205",
+    "longitude": "28.7943",
+    "depth_km": "26.5",
+    "magnitude": "1.2",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.19 02:52:14",
+    "latitude": "38.1492",
+    "longitude": "37.0705",
+    "depth_km": "4.4",
+    "magnitude": "1.1",
+    "location": "IGDE-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.19 02:22:46",
+    "latitude": "40.6297",
+    "longitude": "30.4872",
+    "depth_km": "9.2",
+    "magnitude": "2.2",
+    "location": "KANLICAY-KARAPURCEK (SAKARYA) \u0130lksel"
+}
+{
+    "date": "2024.12.19 02:17:32",
+    "latitude": "37.2995",
+    "longitude": "37.0373",
+    "depth_km": "5.4",
+    "magnitude": "2.2",
+    "location": "CENNETPINARI-PAZARCIK (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.19 01:47:30",
+    "latitude": "37.7358",
+    "longitude": "36.5315",
+    "depth_km": "6.6",
+    "magnitude": "1.8",
+    "location": "AKGUMUS-ANDIRIN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.19 01:45:13",
+    "latitude": "38.8765",
+    "longitude": "43.5030",
+    "depth_km": "7.1",
+    "magnitude": "2.2",
+    "location": "ERMISLER-(VAN) \u0130lksel"
+}
+{
+    "date": "2024.12.19 01:26:53",
+    "latitude": "35.5513",
+    "longitude": "26.2307",
+    "depth_km": "5.9",
+    "magnitude": "2.1",
+    "location": "GIRIT ADASI (AKDENIZ) \u0130lksel"
+}
+{
+    "date": "2024.12.19 00:47:47",
+    "latitude": "39.2777",
+    "longitude": "36.2515",
+    "depth_km": "5.7",
+    "magnitude": "1.8",
+    "location": "KOMURKAYA-SARKISLA (SIVAS) \u0130lksel"
+}
+{
+    "date": "2024.12.19 00:41:24",
+    "latitude": "39.3793",
+    "longitude": "25.6243",
+    "depth_km": "10.3",
+    "magnitude": "1.5",
+    "location": "EGE DENIZI \u0130lksel"
+}
+{
+    "date": "2024.12.19 00:34:25",
+    "latitude": "41.0268",
+    "longitude": "33.1988",
+    "depth_km": "5.0",
+    "magnitude": "1.8",
+    "location": "KARAKUZU-BAYRAMOREN (CANKIRI) \u0130lksel"
+}
+{
+    "date": "2024.12.19 00:14:47",
+    "latitude": "37.4578",
+    "longitude": "30.6212",
+    "depth_km": "4.2",
+    "magnitude": "1.5",
+    "location": "BUCAK (BURDUR) \u0130lksel"
+}
+{
+    "date": "2024.12.18 23:40:24",
+    "latitude": "38.1132",
+    "longitude": "30.9113",
+    "depth_km": "13.8",
+    "magnitude": "1.5",
+    "location": "YENICE-GELENDOST (ISPARTA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 21:42:57",
+    "latitude": "35.7302",
+    "longitude": "25.3605",
+    "depth_km": "8.2",
+    "magnitude": "2.0",
+    "location": "GIRIT ADASI (AKDENIZ) \u0130lksel"
+}
+{
+    "date": "2024.12.18 21:05:45",
+    "latitude": "37.6108",
+    "longitude": "35.8780",
+    "depth_km": "6.6",
+    "magnitude": "2.1",
+    "location": "KARABUCAK-KOZAN (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 20:36:26",
+    "latitude": "36.4473",
+    "longitude": "36.3137",
+    "depth_km": "5.3",
+    "magnitude": "1.8",
+    "location": "OZSOGUKSU-KIRIKHAN (HATAY) \u0130lksel"
+}
+{
+    "date": "2024.12.18 20:29:11",
+    "latitude": "38.0037",
+    "longitude": "36.7020",
+    "depth_km": "6.8",
+    "magnitude": "1.5",
+    "location": "KIZILOZ-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.18 20:20:27",
+    "latitude": "37.9182",
+    "longitude": "36.4990",
+    "depth_km": "8.4",
+    "magnitude": "1.5",
+    "location": "DEGIRMENDERE-GOKSUN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.18 20:18:56",
+    "latitude": "37.5327",
+    "longitude": "26.8713",
+    "depth_km": "13.5",
+    "magnitude": "1.7",
+    "location": "EGE DENIZI \u0130lksel"
+}
+{
+    "date": "2024.12.18 20:06:26",
+    "latitude": "37.6255",
+    "longitude": "35.3903",
+    "depth_km": "14.5",
+    "magnitude": "1.8",
+    "location": "YETIMLI-ALADAG (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 19:52:12",
+    "latitude": "38.3802",
+    "longitude": "38.7832",
+    "depth_km": "2.3",
+    "magnitude": "1.6",
+    "location": "KOZLUK-KALE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 19:24:24",
+    "latitude": "40.2977",
+    "longitude": "29.4970",
+    "depth_km": "12.8",
+    "magnitude": "1.6",
+    "location": "SELIMIYE-YENISEHIR (BURSA) REVIZE01 (2024.12.18 19:24:24)"
+}
+{
+    "date": "2024.12.18 18:51:54",
+    "latitude": "39.7593",
+    "longitude": "41.9755",
+    "depth_km": "9.1",
+    "magnitude": "1.7",
+    "location": "YESILOVA-KARAYAZI (ERZURUM) \u0130lksel"
+}
+{
+    "date": "2024.12.18 18:06:42",
+    "latitude": "39.1427",
+    "longitude": "42.0728",
+    "depth_km": "12.5",
+    "magnitude": "1.9",
+    "location": "KARAAGIL-BULANIK (MUS) \u0130lksel"
+}
+{
+    "date": "2024.12.18 16:48:14",
+    "latitude": "38.0593",
+    "longitude": "29.0352",
+    "depth_km": "5.5",
+    "magnitude": "2.5",
+    "location": "ERTUGRUL-GUNEY (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.18 15:51:39",
+    "latitude": "40.1407",
+    "longitude": "23.1678",
+    "depth_km": "6.4",
+    "magnitude": "3.0",
+    "location": "YUNANISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.18 15:05:48",
+    "latitude": "36.9757",
+    "longitude": "27.2507",
+    "depth_km": "6.2",
+    "magnitude": "1.7",
+    "location": "AKYARLAR-BODRUM (MUGLA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 15:01:05",
+    "latitude": "38.0348",
+    "longitude": "29.0702",
+    "depth_km": "9.5",
+    "magnitude": "1.8",
+    "location": "BELENARDIC-AKKOY (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.18 14:56:38",
+    "latitude": "38.2023",
+    "longitude": "31.0267",
+    "depth_km": "11.7",
+    "magnitude": "1.3",
+    "location": "CALTI-GELENDOST (ISPARTA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 14:26:48",
+    "latitude": "38.5822",
+    "longitude": "39.1527",
+    "depth_km": "24.3",
+    "magnitude": "1.1",
+    "location": "TADIM-(ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.18 14:21:43",
+    "latitude": "37.8165",
+    "longitude": "38.2832",
+    "depth_km": "3.4",
+    "magnitude": "1.7",
+    "location": "PALANLI-(ADIYAMAN) \u0130lksel"
+}
+{
+    "date": "2024.12.18 14:18:12",
+    "latitude": "39.3483",
+    "longitude": "29.3213",
+    "depth_km": "0.0",
+    "magnitude": "1.5",
+    "location": "SARIAYAK-EMET (KUTAHYA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 14:04:05",
+    "latitude": "38.0985",
+    "longitude": "37.2258",
+    "depth_km": "14.3",
+    "magnitude": "1.4",
+    "location": "AKPINAR-EKINOZU (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.18 13:42:05",
+    "latitude": "39.5305",
+    "longitude": "28.2125",
+    "depth_km": "3.0",
+    "magnitude": "1.7",
+    "location": "DOGANCAM-BIGADIC (BALIKESIR) \u0130lksel"
+}
+{
+    "date": "2024.12.18 13:37:55",
+    "latitude": "39.5190",
+    "longitude": "28.1018",
+    "depth_km": "26.1",
+    "magnitude": "1.2",
+    "location": "YENIKOY-BIGADIC (BALIKESIR) \u0130lksel"
+}
+{
+    "date": "2024.12.18 13:36:38",
+    "latitude": "39.4970",
+    "longitude": "28.1563",
+    "depth_km": "10.9",
+    "magnitude": "1.4",
+    "location": "ISKELE-BIGADIC (BALIKESIR) \u0130lksel"
+}
+{
+    "date": "2024.12.18 13:10:47",
+    "latitude": "37.7885",
+    "longitude": "27.0938",
+    "depth_km": "5.3",
+    "magnitude": "1.8",
+    "location": "KUSADASI KORFEZI (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.18 13:08:26",
+    "latitude": "39.4500",
+    "longitude": "28.0432",
+    "depth_km": "16.8",
+    "magnitude": "1.5",
+    "location": "DEDECINAR-BIGADIC (BALIKESIR) \u0130lksel"
+}
+{
+    "date": "2024.12.18 13:07:12",
+    "latitude": "39.4398",
+    "longitude": "28.1587",
+    "depth_km": "7.6",
+    "magnitude": "2.1",
+    "location": "SALMANLI-BIGADIC (BALIKESIR) \u0130lksel"
+}
+{
+    "date": "2024.12.18 13:04:06",
+    "latitude": "37.0292",
+    "longitude": "36.9093",
+    "depth_km": "9.3",
+    "magnitude": "1.6",
+    "location": "KUZOLUK-NURDAGI (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.18 12:53:29",
+    "latitude": "38.4428",
+    "longitude": "39.2453",
+    "depth_km": "4.2",
+    "magnitude": "1.8",
+    "location": "KURKKOY-SIVRICE (ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.18 12:46:47",
+    "latitude": "39.3478",
+    "longitude": "33.4035",
+    "depth_km": "0.0",
+    "magnitude": "1.4",
+    "location": "KUCUKCAMILI-BALA (ANKARA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 12:44:19",
+    "latitude": "36.9637",
+    "longitude": "35.7385",
+    "depth_km": "5.0",
+    "magnitude": "1.2",
+    "location": "AGACPINAR-CEYHAN (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 12:18:21",
+    "latitude": "38.2103",
+    "longitude": "37.7788",
+    "depth_km": "11.9",
+    "magnitude": "2.0",
+    "location": "CAVUSLU-DOGANSEHIR (MALATYA) REVIZE01 (2024.12.18 12:18:22)"
+}
+{
+    "date": "2024.12.18 11:58:55",
+    "latitude": "35.8688",
+    "longitude": "27.4950",
+    "depth_km": "8.1",
+    "magnitude": "3.5",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.18 11:24:13",
+    "latitude": "38.1118",
+    "longitude": "37.2007",
+    "depth_km": "5.8",
+    "magnitude": "2.0",
+    "location": "AKPINAR-EKINOZU (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.18 10:31:12",
+    "latitude": "40.0723",
+    "longitude": "36.0348",
+    "depth_km": "16.2",
+    "magnitude": "1.4",
+    "location": "ARPACIKARACAY-SULUSARAY (TOKAT) \u0130lksel"
+}
+{
+    "date": "2024.12.18 09:50:35",
+    "latitude": "36.0010",
+    "longitude": "31.0165",
+    "depth_km": "12.3",
+    "magnitude": "1.7",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.18 09:47:54",
+    "latitude": "38.0732",
+    "longitude": "29.0285",
+    "depth_km": "11.1",
+    "magnitude": "1.3",
+    "location": "ERTUGRUL-GUNEY (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.18 09:46:57",
+    "latitude": "40.3123",
+    "longitude": "24.1760",
+    "depth_km": "8.8",
+    "magnitude": "2.6",
+    "location": "YUNANISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.18 09:43:59",
+    "latitude": "38.1208",
+    "longitude": "37.1407",
+    "depth_km": "2.5",
+    "magnitude": "1.8",
+    "location": "GUPLUCE-ELBISTAN (KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.18 09:25:48",
+    "latitude": "40.7978",
+    "longitude": "31.0448",
+    "depth_km": "13.7",
+    "magnitude": "1.8",
+    "location": "ICMELER-GOLYAKA (DUZCE) \u0130lksel"
+}
+{
+    "date": "2024.12.18 08:52:12",
+    "latitude": "36.4292",
+    "longitude": "31.8115",
+    "depth_km": "16.8",
+    "magnitude": "2.2",
+    "location": "ANTALYA KORFEZI (AKDENIZ) \u0130lksel"
+}
+{
+    "date": "2024.12.18 06:57:57",
+    "latitude": "40.1577",
+    "longitude": "31.7248",
+    "depth_km": "5.0",
+    "magnitude": "1.8",
+    "location": "SEKLI-BEYPAZARI (ANKARA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 06:51:46",
+    "latitude": "38.1675",
+    "longitude": "30.9288",
+    "depth_km": "4.3",
+    "magnitude": "2.6",
+    "location": "AKDAG-GELENDOST (ISPARTA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 06:44:44",
+    "latitude": "40.8167",
+    "longitude": "31.3268",
+    "depth_km": "12.2",
+    "magnitude": "1.7",
+    "location": "SARICOKEK-KAYNASLI (DUZCE) \u0130lksel"
+}
+{
+    "date": "2024.12.18 06:26:04",
+    "latitude": "38.0763",
+    "longitude": "29.0533",
+    "depth_km": "7.8",
+    "magnitude": "1.8",
+    "location": "ERTUGRUL-GUNEY (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.18 06:16:27",
+    "latitude": "40.3493",
+    "longitude": "24.1413",
+    "depth_km": "13.0",
+    "magnitude": "1.4",
+    "location": "YUNANISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.18 06:11:36",
+    "latitude": "40.4040",
+    "longitude": "28.8248",
+    "depth_km": "7.4",
+    "magnitude": "1.6",
+    "location": "KUMYAKA-MUDANYA (BURSA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 05:41:32",
+    "latitude": "37.0550",
+    "longitude": "36.9182",
+    "depth_km": "6.2",
+    "magnitude": "2.8",
+    "location": "KUZOLUK-NURDAGI (GAZIANTEP) \u0130lksel"
+}
+{
+    "date": "2024.12.18 05:30:37",
+    "latitude": "38.0702",
+    "longitude": "29.0522",
+    "depth_km": "7.5",
+    "magnitude": "1.7",
+    "location": "BELENARDIC-AKKOY (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.18 04:50:14",
+    "latitude": "38.0865",
+    "longitude": "37.7420",
+    "depth_km": "7.7",
+    "magnitude": "1.6",
+    "location": "SOGUT-DOGANSEHIR (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 04:35:30",
+    "latitude": "38.4267",
+    "longitude": "38.8392",
+    "depth_km": "17.2",
+    "magnitude": "1.0",
+    "location": "GULENKOY-KALE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 04:16:03",
+    "latitude": "37.8608",
+    "longitude": "36.6785",
+    "depth_km": "8.2",
+    "magnitude": "1.1",
+    "location": "SAHINKAYASI-(KAHRAMANMARAS) \u0130lksel"
+}
+{
+    "date": "2024.12.18 04:09:53",
+    "latitude": "36.8387",
+    "longitude": "36.3747",
+    "depth_km": "2.7",
+    "magnitude": "1.3",
+    "location": "KAPILI-DORTYOL (HATAY) \u0130lksel"
+}
+{
+    "date": "2024.12.18 04:06:24",
+    "latitude": "40.8083",
+    "longitude": "27.7945",
+    "depth_km": "14.2",
+    "magnitude": "1.1",
+    "location": "MARMARA DENIZI \u0130lksel"
+}
+{
+    "date": "2024.12.18 04:03:11",
+    "latitude": "38.2355",
+    "longitude": "38.6560",
+    "depth_km": "5.0",
+    "magnitude": "1.7",
+    "location": "KAVAKLIDERE-PUTURGE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 03:56:44",
+    "latitude": "38.0762",
+    "longitude": "29.0552",
+    "depth_km": "2.3",
+    "magnitude": "1.9",
+    "location": "ERTUGRUL-GUNEY (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.18 03:56:06",
+    "latitude": "38.7182",
+    "longitude": "38.8805",
+    "depth_km": "7.8",
+    "magnitude": "1.5",
+    "location": "ASAGICAKMAK-KEBAN (ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.18 03:41:26",
+    "latitude": "39.7233",
+    "longitude": "26.0625",
+    "depth_km": "16.8",
+    "magnitude": "1.4",
+    "location": "TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.18 03:37:52",
+    "latitude": "37.7695",
+    "longitude": "35.6228",
+    "depth_km": "6.4",
+    "magnitude": "1.3",
+    "location": "YUKARIKECILI-KOZAN (ADANA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 03:35:29",
+    "latitude": "38.6237",
+    "longitude": "39.4212",
+    "depth_km": "2.3",
+    "magnitude": "1.4",
+    "location": "YENIKAPI-(ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.18 03:16:55",
+    "latitude": "38.0417",
+    "longitude": "29.0352",
+    "depth_km": "14.8",
+    "magnitude": "1.1",
+    "location": "BELENARDIC-AKKOY (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.18 03:08:18",
+    "latitude": "38.0848",
+    "longitude": "29.0513",
+    "depth_km": "6.4",
+    "magnitude": "2.0",
+    "location": "ERTUGRUL-GUNEY (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.18 03:01:23",
+    "latitude": "38.0687",
+    "longitude": "29.0472",
+    "depth_km": "7.6",
+    "magnitude": "4.0",
+    "location": "ERTUGRUL-GUNEY (DENIZLI) \u0130lksel"
+}
+{
+    "date": "2024.12.18 02:43:16",
+    "latitude": "35.5010",
+    "longitude": "27.0262",
+    "depth_km": "9.6",
+    "magnitude": "2.1",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.18 02:36:30",
+    "latitude": "38.4695",
+    "longitude": "38.0680",
+    "depth_km": "8.0",
+    "magnitude": "1.4",
+    "location": "ILICAK-AKCADAG (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 02:32:14",
+    "latitude": "40.9693",
+    "longitude": "24.9522",
+    "depth_km": "8.1",
+    "magnitude": "1.6",
+    "location": "YUNANISTAN \u0130lksel"
+}
+{
+    "date": "2024.12.18 02:31:32",
+    "latitude": "39.5553",
+    "longitude": "28.2120",
+    "depth_km": "3.4",
+    "magnitude": "1.9",
+    "location": "TILKICIK-KEPSUT (BALIKESIR) \u0130lksel"
+}
+{
+    "date": "2024.12.18 02:28:05",
+    "latitude": "38.9975",
+    "longitude": "40.5277",
+    "depth_km": "5.3",
+    "magnitude": "1.5",
+    "location": "KURTULUS-(BINGOL) \u0130lksel"
+}
+{
+    "date": "2024.12.18 02:19:28",
+    "latitude": "35.7187",
+    "longitude": "31.3690",
+    "depth_km": "5.0",
+    "magnitude": "2.5",
+    "location": "AKDENIZ \u0130lksel"
+}
+{
+    "date": "2024.12.18 02:16:39",
+    "latitude": "38.6283",
+    "longitude": "39.4912",
+    "depth_km": "7.6",
+    "magnitude": "1.4",
+    "location": "ELMAPINARI-(ELAZIG) \u0130lksel"
+}
+{
+    "date": "2024.12.18 02:13:03",
+    "latitude": "39.4073",
+    "longitude": "42.9893",
+    "depth_km": "2.8",
+    "magnitude": "1.8",
+    "location": "SULEYMANKUMBET-HAMUR (AGRI) \u0130lksel"
+}
+{
+    "date": "2024.12.18 02:05:45",
+    "latitude": "38.4323",
+    "longitude": "31.7793",
+    "depth_km": "26.4",
+    "magnitude": "0.8",
+    "location": "KONARI-TUZLUKCU (KONYA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 01:48:39",
+    "latitude": "38.1430",
+    "longitude": "38.6075",
+    "depth_km": "5.6",
+    "magnitude": "1.6",
+    "location": "TEKEDERESI-PUTURGE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 01:10:38",
+    "latitude": "38.3162",
+    "longitude": "38.7907",
+    "depth_km": "5.0",
+    "magnitude": "1.7",
+    "location": "BOLUKKAYA-PUTURGE (MALATYA) \u0130lksel"
+}
+{
+    "date": "2024.12.18 00:55:26",
+    "latitude": "39.3763",
+    "longitude": "28.2507",
+    "depth_km": "6.2",
+    "magnitude": "3.0",
+    "location": "DURASILAR-BIGADIC (BALIKESIR) \u0130lksel"
+}
+{
+    "date": "2024.12.18 00:24:02",
+    "latitude": "39.0485",
+    "longitude": "27.4915",
+    "depth_km": "7.6",
+    "magnitude": "1.6",
+    "location": "KALEMKOY-KINIK (IZMIR) \u0130lksel"
+}
+{
+    "date": "2024.12.18 00:01:43",
+    "latitude": "39.4145",
+    "longitude": "25.9420",
+    "depth_km": "12.9",
+    "magnitude": "2.2",
+    "location": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.17 23:58:30",
+    "latitude": "39.4310",
+    "longitude": "25.9097",
+    "depth_km": "8.3",
+    "magnitude": "1.4",
+    "location": "BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI) \u0130lksel"
+}
+{
+    "date": "2024.12.17 22:38:26",
+    "latitude": "38.3670",
+    "longitude": "38.8328",
+    "depth_km": "5.4",
+    "magnitude": "1.8",
+    "location": "AKUSAGI-KALE (MALATYA) \u0130lksel"
+}
