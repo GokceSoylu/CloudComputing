@@ -93,8 +93,21 @@ Deprem verilerini AWS'nin çeşitli hizmetlerini kullanarak analiz etmek, bu ver
 
 
  # VERİLER
-- afaddan veri çekilde /Users/gokcesoylu/CloudComputing/afad_scraped_data.json dosyasına kaydedildi
 
-- kandilliden veri çekildi /Users/gokcesoylu/CloudComputing/kandilli_earthquake_data.json dosyasına kaydedildi
+ veriler temizlendi
 
-- usgs den veri çekilde /Users/gokcesoylu/CloudComputing/earthquake_data.json dosyasına kaydedildi
+- afaddan veri çekilde /Users/gokcesoylu/CloudComputing/afad_cleaned_data.json dosyasına kaydedildi
+
+- kandilliden veri çekildi /Users/gokcesoylu/CloudComputing/kandilli_earthquake_data_cleaned.json dosyasına kaydedildi
+
+- usgs den veri çekilde /Users/gokcesoylu/CloudComputing/earthquake_data_cleaned.json dosyasına kaydedildi
+
+# AWS
+root AWS hesabı oluşturuldu
+IAM hesabı oluşturuldu - developer_gokce
+bucket oluşturuldu - deprem_verileri_bucket
+crawler oluşturuldu - deprem-verileri-crawler
+veri tabanı - deprem_verileri_db
+athena ile sorgu yapıldı
+sorgu sonucu boş
+tablolar kontrol edildi boş değil
