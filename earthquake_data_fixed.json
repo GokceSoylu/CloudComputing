@@ -1,0 +1,970 @@
+[
+    {
+        "date": 1735162767455,
+        "latitude": 50.5227,
+        "longitude": -130.6748,
+        "depth": 10,
+        "magnitude": 4.9,
+        "location": "254 km W of Port McNeill, Canada"
+    },
+    {
+        "date": 1735155531654,
+        "latitude": -3.2423,
+        "longitude": 146.0968,
+        "depth": 10,
+        "magnitude": 4.7,
+        "location": "186 km SW of Lorengau, Papua New Guinea"
+    },
+    {
+        "date": 1735153626293,
+        "latitude": -24.0911,
+        "longitude": -66.985,
+        "depth": 188.687,
+        "magnitude": 4.6,
+        "location": "69 km WNW of San Antonio de los Cobres, Argentina"
+    },
+    {
+        "date": 1735148873956,
+        "latitude": 11.1993,
+        "longitude": -85.7653,
+        "depth": 94.353,
+        "magnitude": 4.6,
+        "location": "12 km ESE of San Juan del Sur, Nicaragua"
+    },
+    {
+        "date": 1735142993004,
+        "latitude": -34.2819,
+        "longitude": -178.3026,
+        "depth": 10,
+        "magnitude": 4.8,
+        "location": "south of the Kermadec Islands"
+    },
+    {
+        "date": 1735136760063,
+        "latitude": 1.7615,
+        "longitude": 127.3898,
+        "depth": 113.821,
+        "magnitude": 4.5,
+        "location": "69 km W of Tobelo, Indonesia"
+    },
+    {
+        "date": 1735136130176,
+        "latitude": -7.4305,
+        "longitude": 127.8361,
+        "depth": 167.602,
+        "magnitude": 4.3,
+        "location": "151 km NE of Lospalos, Timor Leste"
+    },
+    {
+        "date": 1735118453240,
+        "latitude": 19.5603,
+        "longitude": -65.691,
+        "depth": 86,
+        "magnitude": 4.1,
+        "location": "126 km N of Su\u00e1rez, Puerto Rico"
+    },
+    {
+        "date": 1735113463635,
+        "latitude": 36.4578,
+        "longitude": 70.4016,
+        "depth": 210.582,
+        "magnitude": 4.3,
+        "location": "50 km ESE of Farkh\u0101r, Afghanistan"
+    },
+    {
+        "date": 1735111248286,
+        "latitude": 13.6007,
+        "longitude": 144.7297,
+        "depth": 129.607,
+        "magnitude": 4.5,
+        "location": "13 km NNW of Tamuning-Tumon-Harmon Village, Guam"
+    },
+    {
+        "date": 1735109693671,
+        "latitude": -5.6483,
+        "longitude": 151.2956,
+        "depth": 75.1,
+        "magnitude": 4.5,
+        "location": "128 km E of Kimbe, Papua New Guinea"
+    },
+    {
+        "date": 1735108488698,
+        "latitude": -19.1289,
+        "longitude": -177.5439,
+        "depth": 458.796,
+        "magnitude": 5.6,
+        "location": "Fiji region"
+    },
+    {
+        "date": 1735099167087,
+        "latitude": -56.6008,
+        "longitude": 147.5478,
+        "depth": 10,
+        "magnitude": 4.5,
+        "location": "west of Macquarie Island"
+    },
+    {
+        "date": 1735083165243,
+        "latitude": 13.4394,
+        "longitude": 120.3991,
+        "depth": 10,
+        "magnitude": 4.7,
+        "location": "3 km WSW of Harrison, Philippines"
+    },
+    {
+        "date": 1735080146171,
+        "latitude": -28.2519,
+        "longitude": -67.4617,
+        "depth": 138,
+        "magnitude": 5.9,
+        "location": "23 km SSE of Tinogasta, Argentina"
+    },
+    {
+        "date": 1735072414562,
+        "latitude": 6.3233,
+        "longitude": -74.841,
+        "depth": 71.38,
+        "magnitude": 4.9,
+        "location": "13 km SW of Caracol\u00ed, Colombia"
+    },
+    {
+        "date": 1735070866828,
+        "latitude": -24.4121,
+        "longitude": -67.4083,
+        "depth": 203.458,
+        "magnitude": 4.1,
+        "location": "112 km W of San Antonio de los Cobres, Argentina"
+    },
+    {
+        "date": 1735067986745,
+        "latitude": -17.7977,
+        "longitude": 168.1034,
+        "depth": 53.176,
+        "magnitude": 4.9,
+        "location": "23 km WSW of Port-Vila, Vanuatu"
+    },
+    {
+        "date": 1735064547172,
+        "latitude": 34.6754,
+        "longitude": 32.046,
+        "depth": 10,
+        "magnitude": 4.5,
+        "location": "35 km WSW of Chl\u00f3rakas, Cyprus"
+    },
+    {
+        "date": 1735058994113,
+        "latitude": -39.0628,
+        "longitude": -72.3137,
+        "depth": 95.072,
+        "magnitude": 4.7,
+        "location": "25 km NNW of Villarrica, Chile"
+    },
+    {
+        "date": 1735057649130,
+        "latitude": 75.7581,
+        "longitude": 8.7386,
+        "depth": 10,
+        "magnitude": 4.5,
+        "location": "Greenland Sea"
+    },
+    {
+        "date": 1735056608964,
+        "latitude": -39.1381,
+        "longitude": 174.7839,
+        "depth": 219.078,
+        "magnitude": 4.2,
+        "location": "48 km ENE of Stratford, New Zealand"
+    },
+    {
+        "date": 1735049526088,
+        "latitude": -17.765,
+        "longitude": 167.9651,
+        "depth": 35,
+        "magnitude": 4.8,
+        "location": "37 km W of Port-Vila, Vanuatu"
+    },
+    {
+        "date": 1735041915572,
+        "latitude": 8.9435,
+        "longitude": 40.1637,
+        "depth": 10,
+        "magnitude": 4.5,
+        "location": "4 km S of \u0100wash, Ethiopia"
+    },
+    {
+        "date": 1735036974721,
+        "latitude": 2.5942,
+        "longitude": 126.3999,
+        "depth": 70.403,
+        "magnitude": 4.9,
+        "location": "190 km NE of Bitung, Indonesia"
+    },
+    {
+        "date": 1735033549120,
+        "latitude": 8.8402,
+        "longitude": 40.0744,
+        "depth": 10,
+        "magnitude": 4.5,
+        "location": "18 km ESE of Metah\u0101ra, Ethiopia"
+    },
+    {
+        "date": 1735031510244,
+        "latitude": 10.6835,
+        "longitude": -68.7163,
+        "depth": 10,
+        "magnitude": 4.6,
+        "location": "10 km NNW of Yumare, Venezuela"
+    },
+    {
+        "date": 1735031310038,
+        "latitude": 36.6617,
+        "longitude": 71.0766,
+        "depth": 219.337,
+        "magnitude": 4.2,
+        "location": "31 km SE of Jurm, Afghanistan"
+    },
+    {
+        "date": 1735015146384,
+        "latitude": 40.1432,
+        "longitude": 23.3031,
+        "depth": 10,
+        "magnitude": 4.1,
+        "location": "6 km SSW of N\u00e9a Pote\u00eddaia, Greece"
+    },
+    {
+        "date": 1735010309250,
+        "latitude": 55.5062,
+        "longitude": 166.1435,
+        "depth": 10,
+        "magnitude": 4.5,
+        "location": "243 km ESE of Ust\u2019-Kamchatsk Staryy, Russia"
+    },
+    {
+        "date": 1735007396019,
+        "latitude": 40.2366,
+        "longitude": 142.3379,
+        "depth": 55.403,
+        "magnitude": 4,
+        "location": "46 km ENE of Noda, Japan"
+    },
+    {
+        "date": 1734982885327,
+        "latitude": 9.0015,
+        "longitude": 39.9808,
+        "depth": 10,
+        "magnitude": 4.9,
+        "location": "13 km NNE of Metah\u0101ra, Ethiopia"
+    },
+    {
+        "date": 1734976645583,
+        "latitude": 19.5561,
+        "longitude": 95.0905,
+        "depth": 84.036,
+        "magnitude": 4.9,
+        "location": "24 km NNW of Myaydo, Myanmar"
+    },
+    {
+        "date": 1734974012970,
+        "latitude": 12.7807,
+        "longitude": -90.5132,
+        "depth": 10,
+        "magnitude": 4.7,
+        "location": "116 km SW of Acajutla, El Salvador"
+    },
+    {
+        "date": 1734970702238,
+        "latitude": 34.5427,
+        "longitude": 140.4882,
+        "depth": 69.422,
+        "magnitude": 4.5,
+        "location": "68 km SSE of Katsuura, Japan"
+    },
+    {
+        "date": 1734961032063,
+        "latitude": -7.1974,
+        "longitude": 124.5222,
+        "depth": 515.119,
+        "magnitude": 4.6,
+        "location": "173 km NNW of Maubara, Timor Leste"
+    },
+    {
+        "date": 1734956355844,
+        "latitude": 38.2331,
+        "longitude": 15.3461,
+        "depth": 205.061,
+        "magnitude": 4.2,
+        "location": "2 km NW of Venetico Marina, Italy"
+    },
+    {
+        "date": 1734933659074,
+        "latitude": 19.9162,
+        "longitude": -76.5153,
+        "depth": 22.241,
+        "magnitude": 5.9,
+        "location": "37 km S of Guisa, Cuba"
+    },
+    {
+        "date": 1734929470031,
+        "latitude": -11.1458,
+        "longitude": 165.8012,
+        "depth": 67.537,
+        "magnitude": 5,
+        "location": "46 km S of Lata, Solomon Islands"
+    },
+    {
+        "date": 1734927978962,
+        "latitude": -29.1325,
+        "longitude": -70.6683,
+        "depth": 98.507,
+        "magnitude": 4.1,
+        "location": "62 km S of Vallenar, Chile"
+    },
+    {
+        "date": 1734925145263,
+        "latitude": -16.654,
+        "longitude": 28.8804,
+        "depth": 10,
+        "magnitude": 4.9,
+        "location": "17 km SSE of Kariba, Zimbabwe"
+    },
+    {
+        "date": 1734922374862,
+        "latitude": 15.8765,
+        "longitude": 39.9733,
+        "depth": 10,
+        "magnitude": 4.4,
+        "location": "61 km ENE of Massawa, Eritrea"
+    },
+    {
+        "date": 1734920189271,
+        "latitude": -26.9824,
+        "longitude": -179.8416,
+        "depth": 454.024,
+        "magnitude": 4.6,
+        "location": "south of the Fiji Islands"
+    },
+    {
+        "date": 1734917769580,
+        "latitude": 5.5221,
+        "longitude": 61.3345,
+        "depth": 10,
+        "magnitude": 4.6,
+        "location": "Carlsberg Ridge"
+    },
+    {
+        "date": 1734916433775,
+        "latitude": 8.9675,
+        "longitude": 40.1189,
+        "depth": 10.154,
+        "magnitude": 4.6,
+        "location": "5 km WSW of \u0100wash, Ethiopia"
+    },
+    {
+        "date": 1734912289609,
+        "latitude": -14.3817,
+        "longitude": 167.2892,
+        "depth": 243.4,
+        "magnitude": 4.8,
+        "location": "62 km SSW of Sola, Vanuatu"
+    },
+    {
+        "date": 1734907061708,
+        "latitude": 29.0387,
+        "longitude": 94.9861,
+        "depth": 36.765,
+        "magnitude": 4,
+        "location": "82 km NE of Shi Yomi, India"
+    },
+    {
+        "date": 1734903517377,
+        "latitude": -10.3659,
+        "longitude": -77.623,
+        "depth": 95.47,
+        "magnitude": 4.9,
+        "location": "14 km W of Copa, Peru"
+    },
+    {
+        "date": 1734894590604,
+        "latitude": 34.5746,
+        "longitude": 26.2594,
+        "depth": 10,
+        "magnitude": 5.2,
+        "location": "67 km SE of Ier\u00e1petra, Greece"
+    },
+    {
+        "date": 1734894265152,
+        "latitude": -10.8944,
+        "longitude": 112.4438,
+        "depth": 10,
+        "magnitude": 4.9,
+        "location": "298 km S of Dampit, Indonesia"
+    },
+    {
+        "date": 1734887151877,
+        "latitude": -9.2471,
+        "longitude": 106.6506,
+        "depth": 10,
+        "magnitude": 5,
+        "location": "242 km SSW of Banjar, Indonesia"
+    },
+    {
+        "date": 1734880471983,
+        "latitude": 5.6305,
+        "longitude": 61.2694,
+        "depth": 10,
+        "magnitude": 4.6,
+        "location": "Carlsberg Ridge"
+    },
+    {
+        "date": 1734868388431,
+        "latitude": 34.1795,
+        "longitude": 24.95,
+        "depth": 33.839,
+        "magnitude": 4.5,
+        "location": "93 km SSW of P\u00fdrgos, Greece"
+    },
+    {
+        "date": 1734867899941,
+        "latitude": 55.9688,
+        "longitude": -153.9797,
+        "depth": 12,
+        "magnitude": 5.3,
+        "location": "109 km S of Akhiok, Alaska"
+    },
+    {
+        "date": 1734865402125,
+        "latitude": -18.0231,
+        "longitude": -178.1562,
+        "depth": 570.24,
+        "magnitude": 4.6,
+        "location": "267 km E of Levuka, Fiji"
+    },
+    {
+        "date": 1734863902680,
+        "latitude": -23.852,
+        "longitude": -179.3327,
+        "depth": 533.092,
+        "magnitude": 4.5,
+        "location": "south of the Fiji Islands"
+    },
+    {
+        "date": 1734854151747,
+        "latitude": 31.8188,
+        "longitude": 130.6543,
+        "depth": 174.551,
+        "magnitude": 4.6,
+        "location": "9 km N of Kajiki, Japan"
+    },
+    {
+        "date": 1734853029770,
+        "latitude": 17.6413,
+        "longitude": 119.6493,
+        "depth": 10,
+        "magnitude": 5,
+        "location": "75 km W of Puro Pinget, Philippines"
+    },
+    {
+        "date": 1734843802866,
+        "latitude": -21.0193,
+        "longitude": 169.8081,
+        "depth": 82.077,
+        "magnitude": 4.6,
+        "location": "172 km SSE of Isangel, Vanuatu"
+    },
+    {
+        "date": 1734842714076,
+        "latitude": 3.2731,
+        "longitude": 126.575,
+        "depth": 50.612,
+        "magnitude": 4.9,
+        "location": "233 km NW of Tobelo, Indonesia"
+    },
+    {
+        "date": 1734840533696,
+        "latitude": 55.9828,
+        "longitude": -153.9916,
+        "depth": 17.3,
+        "magnitude": 4.6,
+        "location": "107 km S of Akhiok, Alaska"
+    },
+    {
+        "date": 1734839764489,
+        "latitude": 55.9825,
+        "longitude": -153.9973,
+        "depth": 9.2,
+        "magnitude": 5.6,
+        "location": "107 km S of Akhiok, Alaska"
+    },
+    {
+        "date": 1734834685231,
+        "latitude": -10.868,
+        "longitude": 162.7931,
+        "depth": 35,
+        "magnitude": 5,
+        "location": "105 km ESE of Kirakira, Solomon Islands"
+    },
+    {
+        "date": 1734829231932,
+        "latitude": 37.2868,
+        "longitude": 71.2587,
+        "depth": 97.61,
+        "magnitude": 4.5,
+        "location": "34 km SW of Khorugh, Tajikistan"
+    },
+    {
+        "date": 1734828665276,
+        "latitude": -30.445,
+        "longitude": 19.4352,
+        "depth": 10,
+        "magnitude": 5.3,
+        "location": "101 km W of Brandvlei, South Africa"
+    },
+    {
+        "date": 1734816333487,
+        "latitude": -15.2297,
+        "longitude": -75.0184,
+        "depth": 48.534,
+        "magnitude": 4.5,
+        "location": "10 km E of Minas de Marcona, Peru"
+    },
+    {
+        "date": 1734798592364,
+        "latitude": 38.6369,
+        "longitude": 21.6091,
+        "depth": 10,
+        "magnitude": 5,
+        "location": "8 km ENE of Parav\u00f3la, Greece"
+    },
+    {
+        "date": 1734795053243,
+        "latitude": -17.7098,
+        "longitude": 168.0292,
+        "depth": 46,
+        "magnitude": 6.1,
+        "location": "30 km W of Port-Vila, Vanuatu"
+    },
+    {
+        "date": 1734794810051,
+        "latitude": -0.108,
+        "longitude": 125.1662,
+        "depth": 59.106,
+        "magnitude": 4.8,
+        "location": "102 km SE of Modisi, Indonesia"
+    },
+    {
+        "date": 1734787273631,
+        "latitude": -3.4908,
+        "longitude": 127.114,
+        "depth": 35,
+        "magnitude": 4.4,
+        "location": "120 km W of Ambon, Indonesia"
+    },
+    {
+        "date": 1734787052490,
+        "latitude": 36.7268,
+        "longitude": 144.0532,
+        "depth": 22.094,
+        "magnitude": 4.4,
+        "location": "278 km ESE of Tomioka, Japan"
+    },
+    {
+        "date": 1734782618980,
+        "latitude": -15.4424,
+        "longitude": -173.6333,
+        "depth": 74.302,
+        "magnitude": 4.8,
+        "location": "59 km NNE of Hihifo, Tonga"
+    },
+    {
+        "date": 1734772830382,
+        "latitude": -20.1887,
+        "longitude": -173.3649,
+        "depth": 10,
+        "magnitude": 5,
+        "location": "111 km ESE of Fangale\u2019ounga, Tonga"
+    },
+    {
+        "date": 1734772386330,
+        "latitude": -40.5333,
+        "longitude": -75.1337,
+        "depth": 10,
+        "magnitude": 4.8,
+        "location": "161 km WSW of Corral, Chile"
+    },
+    {
+        "date": 1734765015244,
+        "latitude": 26.7644,
+        "longitude": 55.1479,
+        "depth": 10,
+        "magnitude": 4.7,
+        "location": "35 km NE of Bandar-e Lengeh, Iran"
+    },
+    {
+        "date": 1734745054605,
+        "latitude": 13.1718,
+        "longitude": -89.5799,
+        "depth": 39.211,
+        "magnitude": 4.1,
+        "location": "44 km SW of La Libertad, El Salvador"
+    },
+    {
+        "date": 1734744454491,
+        "latitude": 44.1907,
+        "longitude": -128.9507,
+        "depth": 10,
+        "magnitude": 4.2,
+        "location": "off the coast of Oregon"
+    },
+    {
+        "date": 1734743969755,
+        "latitude": 43.3343,
+        "longitude": 146.8141,
+        "depth": 67.266,
+        "magnitude": 4.4,
+        "location": "52 km S of Shikotan, Russia"
+    },
+    {
+        "date": 1734743826484,
+        "latitude": -18.0307,
+        "longitude": -178.1487,
+        "depth": 612.857,
+        "magnitude": 4.8,
+        "location": "268 km E of Levuka, Fiji"
+    },
+    {
+        "date": 1734738820292,
+        "latitude": 17.513,
+        "longitude": 119.5231,
+        "depth": 10,
+        "magnitude": 4.9,
+        "location": "89 km W of Cabittaogan, Philippines"
+    },
+    {
+        "date": 1734737000836,
+        "latitude": 8.1646,
+        "longitude": -38.1389,
+        "depth": 10,
+        "magnitude": 4.9,
+        "location": "central Mid-Atlantic Ridge"
+    },
+    {
+        "date": 1734735719271,
+        "latitude": 39.9091,
+        "longitude": 45.9464,
+        "depth": 34.646,
+        "magnitude": 4.7,
+        "location": "23 km SSW of Kerbakhiar, Azerbaijan"
+    },
+    {
+        "date": 1734735379457,
+        "latitude": -7.0882,
+        "longitude": 131.8842,
+        "depth": 10,
+        "magnitude": 4.8,
+        "location": "187 km SSW of Tual, Indonesia"
+    },
+    {
+        "date": 1734733742248,
+        "latitude": 29.4931,
+        "longitude": 81.5921,
+        "depth": 10,
+        "magnitude": 5,
+        "location": "62 km WNW of Jumla, Nepal"
+    },
+    {
+        "date": 1734731486428,
+        "latitude": 4.0073,
+        "longitude": 125.8812,
+        "depth": 147.856,
+        "magnitude": 4.9,
+        "location": "161 km SSE of Sarangani, Philippines"
+    },
+    {
+        "date": 1734728973220,
+        "latitude": 5.8015,
+        "longitude": 127.2143,
+        "depth": 73.025,
+        "magnitude": 4.9,
+        "location": "130 km ESE of Pondaguitan, Philippines"
+    },
+    {
+        "date": 1734724657090,
+        "latitude": 50.5566,
+        "longitude": 90.4191,
+        "depth": 10,
+        "magnitude": 4.5,
+        "location": "19 km N of Mugur-Aksy, Russia"
+    },
+    {
+        "date": 1734722774486,
+        "latitude": -6.977,
+        "longitude": 131.7867,
+        "depth": 10,
+        "magnitude": 5.1,
+        "location": "183 km SW of Tual, Indonesia"
+    },
+    {
+        "date": 1734721108974,
+        "latitude": 33.268,
+        "longitude": 140.7151,
+        "depth": 70.23,
+        "magnitude": 4.8,
+        "location": "205 km SSE of Tateyama, Japan"
+    },
+    {
+        "date": 1734718958731,
+        "latitude": -6.6474,
+        "longitude": 104.9755,
+        "depth": 53.847,
+        "magnitude": 4.9,
+        "location": "99 km WSW of Labuan, Indonesia"
+    },
+    {
+        "date": 1734715486672,
+        "latitude": -19.2511,
+        "longitude": -172.979,
+        "depth": 10,
+        "magnitude": 4.8,
+        "location": "124 km ESE of Neiafu, Tonga"
+    },
+    {
+        "date": 1734714298973,
+        "latitude": -17.9795,
+        "longitude": 167.8829,
+        "depth": 82.377,
+        "magnitude": 4.8,
+        "location": "52 km WSW of Port-Vila, Vanuatu"
+    },
+    {
+        "date": 1734707511020,
+        "latitude": -11.8029,
+        "longitude": 166.0345,
+        "depth": 59.462,
+        "magnitude": 4.7,
+        "location": "122 km SSE of Lata, Solomon Islands"
+    },
+    {
+        "date": 1734705188325,
+        "latitude": -11.7513,
+        "longitude": 166.1708,
+        "depth": 25.375,
+        "magnitude": 5.4,
+        "location": "120 km SSE of Lata, Solomon Islands"
+    },
+    {
+        "date": 1734703842112,
+        "latitude": -11.7408,
+        "longitude": 166.2365,
+        "depth": 12.391,
+        "magnitude": 5,
+        "location": "122 km SSE of Lata, Solomon Islands"
+    },
+    {
+        "date": 1734696516478,
+        "latitude": 31.614,
+        "longitude": -104.498,
+        "depth": 6.7664,
+        "magnitude": 4,
+        "location": "63 km S of Whites City, New Mexico"
+    },
+    {
+        "date": 1734690895527,
+        "latitude": -31.9735,
+        "longitude": -67.5302,
+        "depth": 10,
+        "magnitude": 4.5,
+        "location": "79 km ESE of Caucete, Argentina"
+    },
+    {
+        "date": 1734686412564,
+        "latitude": -39.9377,
+        "longitude": 175.1034,
+        "depth": 63.004,
+        "magnitude": 4.4,
+        "location": "4 km E of Whanganui, New Zealand"
+    },
+    {
+        "date": 1734678701544,
+        "latitude": -16.6927,
+        "longitude": 28.9052,
+        "depth": 10,
+        "magnitude": 4.9,
+        "location": "22 km SSE of Kariba, Zimbabwe"
+    },
+    {
+        "date": 1734672762156,
+        "latitude": -33.6033,
+        "longitude": -67.9272,
+        "depth": 182.74,
+        "magnitude": 4.8,
+        "location": "76 km SE of San Mart\u00edn, Argentina"
+    },
+    {
+        "date": 1734667402131,
+        "latitude": 60.357,
+        "longitude": -152.2935,
+        "depth": 84.7,
+        "magnitude": 4.5,
+        "location": "48 km NW of Ninilchik, Alaska"
+    },
+    {
+        "date": 1734653731517,
+        "latitude": -16.7069,
+        "longitude": 28.9438,
+        "depth": 10,
+        "magnitude": 4.6,
+        "location": "26 km SE of Kariba, Zimbabwe"
+    },
+    {
+        "date": 1734640207102,
+        "latitude": -41.0822,
+        "longitude": -86.6001,
+        "depth": 10,
+        "magnitude": 5.3,
+        "location": "West Chile Rise"
+    },
+    {
+        "date": 1734636659799,
+        "latitude": 13.6771,
+        "longitude": 144.7346,
+        "depth": 102.501,
+        "magnitude": 4.6,
+        "location": "20 km NNW of Dededo Village, Guam"
+    },
+    {
+        "date": 1734636139121,
+        "latitude": 11.9353,
+        "longitude": 126.6311,
+        "depth": 10,
+        "magnitude": 5.1,
+        "location": "125 km E of Dapdap, Philippines"
+    },
+    {
+        "date": 1734633376772,
+        "latitude": -20.316,
+        "longitude": 168.387,
+        "depth": 25.549,
+        "magnitude": 5.1,
+        "location": "126 km SW of Isangel, Vanuatu"
+    },
+    {
+        "date": 1734627081912,
+        "latitude": 5.6669,
+        "longitude": 127.0536,
+        "depth": 74.701,
+        "magnitude": 4.9,
+        "location": "123 km SE of Pondaguitan, Philippines"
+    },
+    {
+        "date": 1734621437405,
+        "latitude": -4.1377,
+        "longitude": 151.8278,
+        "depth": 251.413,
+        "magnitude": 4.6,
+        "location": "37 km W of Rabaul, Papua New Guinea"
+    },
+    {
+        "date": 1734615464536,
+        "latitude": -15.4434,
+        "longitude": -73.1368,
+        "depth": 104.927,
+        "magnitude": 4.3,
+        "location": "14 km SE of Tauria, Peru"
+    },
+    {
+        "date": 1734605491273,
+        "latitude": -6.3009,
+        "longitude": 130.2189,
+        "depth": 153.677,
+        "magnitude": 4.6,
+        "location": "290 km WSW of Tual, Indonesia"
+    },
+    {
+        "date": 1734591300839,
+        "latitude": 17.6944,
+        "longitude": 119.5562,
+        "depth": 10,
+        "magnitude": 5,
+        "location": "85 km W of Puro Pinget, Philippines"
+    },
+    {
+        "date": 1734590544786,
+        "latitude": 17.6363,
+        "longitude": 119.4894,
+        "depth": 10,
+        "magnitude": 5.1,
+        "location": "92 km W of Puro Pinget, Philippines"
+    },
+    {
+        "date": 1734588985574,
+        "latitude": -2.3313,
+        "longitude": 128.1897,
+        "depth": 10,
+        "magnitude": 4.7,
+        "location": "137 km NW of Masohi, Indonesia"
+    },
+    {
+        "date": 1734576392228,
+        "latitude": -56.3499,
+        "longitude": 147.3087,
+        "depth": 10,
+        "magnitude": 4.6,
+        "location": "west of Macquarie Island"
+    },
+    {
+        "date": 1734574360824,
+        "latitude": 17.7739,
+        "longitude": 119.3882,
+        "depth": 10,
+        "magnitude": 4.6,
+        "location": "103 km W of Puro Pinget, Philippines"
+    },
+    {
+        "date": 1734574022552,
+        "latitude": -56.3574,
+        "longitude": 147.017,
+        "depth": 10,
+        "magnitude": 5.7,
+        "location": "west of Macquarie Island"
+    },
+    {
+        "date": 1734573165529,
+        "latitude": 28.5305,
+        "longitude": 84.1974,
+        "depth": 10,
+        "magnitude": 4.2,
+        "location": "36 km NE of Pokhara, Nepal"
+    },
+    {
+        "date": 1734571927780,
+        "latitude": -16.9338,
+        "longitude": -64.4653,
+        "depth": 578.524,
+        "magnitude": 4.5,
+        "location": "73 km E of Chimor\u00e9, Bolivia"
+    },
+    {
+        "date": 1734571037291,
+        "latitude": -0.7839,
+        "longitude": 99.0581,
+        "depth": 45.06,
+        "magnitude": 4.6,
+        "location": "119 km W of Pariaman, Indonesia"
+    },
+    {
+        "date": 1734570591254,
+        "latitude": 17.6609,
+        "longitude": 119.6047,
+        "depth": 10,
+        "magnitude": 5.1,
+        "location": "80 km W of Puro Pinget, Philippines"
+    },
+    {
+        "date": 1734567414270,
+        "latitude": -6.4099,
+        "longitude": 130.2739,
+        "depth": 148.914,
+        "magnitude": 4.5,
+        "location": "287 km WSW of Tual, Indonesia"
+    }
+]

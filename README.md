@@ -105,9 +105,9 @@ Deprem verilerini AWS'nin çeşitli hizmetlerini kullanarak analiz etmek, bu ver
 # AWS
 root AWS hesabı oluşturuldu
 IAM hesabı oluşturuldu - developer_gokce
-bucket oluşturuldu - deprem_verileri_bucket
-crawler oluşturuldu - deprem-verileri-crawler
-veri tabanı - deprem_verileri_db
+bucket oluşturuldu - deprem-verileri-new-bucket
+crawler oluşturuldu - ddeprem_verileri_bucet_last crawler hatasız çalıştı. log kontrol edildi sorun yok.
+veri tabanı - deprem-verileri-new-db
 athena ile sorgu yapıldı
 sorgu sonucu boş
-tablolar kontrol edildi boş değil
+tablolar kontrol edildi yapısı veri tipleri düzgün.
