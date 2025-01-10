@@ -114,7 +114,7 @@ tablolar kontrol edildi yapısı veri tipleri düzgün.
 
 ---- 
 GLUE kullanmaksızın direkt athena sonrgusu yapmaya karar verdim direct_db veri tabanını oluşturdum. tablolorı manuel olarak oluşturuyorum 
-- AFAD verileri
+- verileri
 
 ````sql
 CREATE EXTERNAL TABLE deprem_afad (
@@ -130,18 +130,4 @@ FIELDS TERMINATED BY ','
 STORED AS TEXTFILE
 LOCATION 's3://deprem-verileri-new-bucket/';
 ````
-- USGS verileri
-````sql
-CREATE EXTERNAL TABLE deprem_earthquake (
-    date BIGINT, -- timestamp formatında
-    latitude DOUBLE,
-    longitude DOUBLE,
-    depth DOUBLE,
-    magnitude DOUBLE,
-    location STRING
-)
-ROW FORMAT DELIMITED
-FIELDS TERMINATED BY ','
-STORED AS TEXTFILE
-LOCATION 's3://deprem-verileri-new-bucket/earthquake_data_fixed.csv';
-````
+tüm tabloları aynı anda tek tabloda aldım. çünkü file kabul etmiyor direkt folder yolu vermek gerkiyor
