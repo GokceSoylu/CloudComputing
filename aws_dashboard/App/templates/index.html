@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AWS Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>AWS Deprem Dashboard</h1>
+        <ul class="nav">
+            <li><a href="#athena">Athena Verileri</a></li>
+            <li><a href="#s3">S3 Dosyaları</a></li>
+            <li><a href="#lambda">Lambda Logları</a></li>
+        </ul>
+        <div id="content">
+            <div id="athena">
+                <h3>Athena Verileri</h3>
+                <table id="athena-table"></table>
+            </div>
+            <div id="s3">
+                <h3>S3 Dosyaları</h3>
+                <ul id="s3-files"></ul>
+            </div>
+            <div id="lambda">
+                <h3>Lambda Logları</h3>
+                <pre id="lambda-logs"></pre>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    function fetchData(url, target) {
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                document.querySelector(target).innerText = JSON.stringify(data, null, 2);
+            });
+    }
+    fetchData('/api/athena_data', '#athena-table');
+    fetchData('/api/s3_files', '#s3-files');
+    fetchData('/api/lambda_status', '#lambda-logs');
+</script>
+
+</html>
